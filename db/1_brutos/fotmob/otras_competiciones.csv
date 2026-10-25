@@ -1,0 +1,1206 @@
+fm_match_id,comp,utc,home_id,away_id,home_name,away_name,jugado
+2876497,champions,2018-09-18 16:55:00,8634,8640,Barcelona,PSV Eindhoven,True
+2876474,champions,2018-09-18 19:00:00,9829,9906,Monaco,Atlético Madrid,True
+2876560,champions,2018-09-19 19:00:00,8633,8686,Real Madrid,Roma,True
+2876459,champions,2018-09-19 19:00:00,10267,9885,Valencia,Juventus,True
+2876562,champions,2018-10-02 19:00:00,9760,8633,CSKA Moscow,Real Madrid,True
+2876462,champions,2018-10-02 19:05:00,10260,10267,Manchester United,Valencia,True
+2876475,champions,2018-10-03 19:00:00,9906,8342,Atlético Madrid,Club Brugge,True
+2876499,champions,2018-10-03 19:00:00,8586,8634,Tottenham Hotspur,Barcelona,True
+2876463,champions,2018-10-23 16:55:00,10192,10267,Young Boys,Valencia,True
+2876565,champions,2018-10-23 19:00:00,8633,6033,Real Madrid,Viktoria Plzeň,True
+2876502,champions,2018-10-24 19:00:00,8634,8636,Barcelona,Inter,True
+2876478,champions,2018-10-24 19:00:00,9789,9906,Borussia Dortmund,Atlético Madrid,True
+2876480,champions,2018-11-06 20:00:00,9906,9789,Atlético Madrid,Borussia Dortmund,True
+2876503,champions,2018-11-06 20:00:00,8636,8634,Inter,Barcelona,True
+2876466,champions,2018-11-07 17:55:00,10267,10192,Valencia,Young Boys,True
+2876567,champions,2018-11-07 20:00:00,6033,8633,Viktoria Plzeň,Real Madrid,True
+2876468,champions,2018-11-27 20:00:00,9885,10267,Juventus,Valencia,True
+2876569,champions,2018-11-27 20:00:00,8686,8633,Roma,Real Madrid,True
+2876509,champions,2018-11-28 17:55:00,9906,9829,Atlético Madrid,Monaco,True
+2876505,champions,2018-11-28 20:00:00,8640,8634,PSV Eindhoven,Barcelona,True
+2876507,champions,2018-12-11 20:00:00,8634,8586,Barcelona,Tottenham Hotspur,True
+2876483,champions,2018-12-11 20:00:00,8342,9906,Club Brugge,Atlético Madrid,True
+2876571,champions,2018-12-12 17:55:00,8633,9760,Real Madrid,CSKA Moscow,True
+2876470,champions,2018-12-12 20:00:00,10267,10260,Valencia,Manchester United,True
+2947302,champions,2019-02-13 20:00:00,8593,8633,Ajax,Real Madrid,True
+2947300,champions,2019-02-19 20:00:00,9748,8634,Lyon,Barcelona,True
+2947297,champions,2019-02-20 20:00:00,9906,9885,Atlético Madrid,Juventus,True
+2947310,champions,2019-03-05 20:00:00,8633,8593,Real Madrid,Ajax,True
+2947305,champions,2019-03-12 20:00:00,9885,9906,Juventus,Atlético Madrid,True
+2947308,champions,2019-03-13 20:00:00,8634,9748,Barcelona,Lyon,True
+3010093,champions,2019-04-10 19:00:00,10260,8634,Manchester United,Barcelona,True
+3010094,champions,2019-04-16 19:00:00,8634,10260,Barcelona,Manchester United,True
+3010097,champions,2019-05-01 19:00:00,8634,8650,Barcelona,Liverpool,True
+3010098,champions,2019-05-07 19:00:00,8650,8634,Liverpool,Barcelona,True
+3170188,champions,2019-09-17 19:00:00,9789,8634,Borussia Dortmund,Barcelona,True
+3170202,champions,2019-09-17 19:00:00,8455,10267,Chelsea,Valencia,True
+3170160,champions,2019-09-18 19:00:00,9906,9885,Atlético Madrid,Juventus,True
+3170124,champions,2019-09-18 19:00:00,9847,8633,Paris Saint-Germain,Real Madrid,True
+3170114,champions,2019-10-01 16:55:00,8633,8342,Real Madrid,Club Brugge,True
+3170163,champions,2019-10-01 19:00:00,8710,9906,Lokomotiv Moscow,Atlético Madrid,True
+3170178,champions,2019-10-02 19:00:00,8634,8636,Barcelona,Inter,True
+3170205,champions,2019-10-02 19:00:00,10267,8593,Valencia,Ajax,True
+3170159,champions,2019-10-22 16:55:00,9906,8178,Atlético Madrid,Bayer Leverkusen,True
+3170118,champions,2019-10-22 19:00:00,8637,8633,Galatasaray,Real Madrid,True
+3170207,champions,2019-10-23 19:00:00,8639,10267,Lille,Valencia,True
+3170182,champions,2019-10-23 19:00:00,7787,8634,Slavia Prague,Barcelona,True
+3170184,champions,2019-11-05 17:55:00,8634,7787,Barcelona,Slavia Prague,True
+3170209,champions,2019-11-05 20:00:00,10267,8639,Valencia,Lille,True
+3170157,champions,2019-11-06 20:00:00,8178,9906,Bayer Leverkusen,Atlético Madrid,True
+3170120,champions,2019-11-06 20:00:00,8633,8637,Real Madrid,Galatasaray,True
+3170152,champions,2019-11-26 20:00:00,9885,9906,Juventus,Atlético Madrid,True
+3170116,champions,2019-11-26 20:00:00,8633,9847,Real Madrid,Paris Saint-Germain,True
+3170210,champions,2019-11-27 17:55:00,10267,8455,Valencia,Chelsea,True
+3170180,champions,2019-11-27 20:00:00,8634,9789,Barcelona,Borussia Dortmund,True
+3170213,champions,2019-12-10 20:00:00,8593,10267,Ajax,Valencia,True
+3170186,champions,2019-12-10 20:00:00,8636,8634,Inter,Barcelona,True
+3170155,champions,2019-12-11 20:00:00,9906,8710,Atlético Madrid,Lokomotiv Moscow,True
+3170122,champions,2019-12-11 20:00:00,8342,8633,Club Brugge,Real Madrid,True
+3236256,champions,2020-02-18 20:00:00,9906,8650,Atlético Madrid,Liverpool,True
+3236255,champions,2020-02-19 20:00:00,8524,10267,Atalanta,Valencia,True
+3236260,champions,2020-02-25 20:00:00,9875,8634,Napoli,Barcelona,True
+3236254,champions,2020-02-26 20:00:00,8633,8456,Real Madrid,Manchester City,True
+3236263,champions,2020-03-10 20:00:00,10267,8524,Valencia,Atalanta,True
+3236264,champions,2020-03-11 20:00:00,8650,9906,Liverpool,Atlético Madrid,True
+3236262,champions,2020-08-07 19:00:00,8456,8633,Manchester City,Real Madrid,True
+3236268,champions,2020-08-08 19:00:00,8634,9875,Barcelona,Napoli,True
+3363665,champions,2020-08-13 19:00:00,178475,9906,RB Leipzig,Atlético Madrid,True
+3363666,champions,2020-08-14 19:00:00,8634,9823,Barcelona,Bayern München,True
+3462007,champions,2020-10-20 19:00:00,8634,8222,Barcelona,Ferencváros,True
+3461740,champions,2020-10-20 19:00:00,8455,8302,Chelsea,Sevilla,True
+3461649,champions,2020-10-21 16:55:00,8633,9728,Real Madrid,Shakhtar Donetsk,True
+3461637,champions,2020-10-21 19:00:00,9823,9906,Bayern München,Atlético Madrid,True
+3461641,champions,2020-10-27 20:00:00,9906,10013,Atlético Madrid,Salzburg,True
+3461652,champions,2020-10-27 20:00:00,9788,8633,Borussia Mönchengladbach,Real Madrid,True
+3462009,champions,2020-10-28 20:00:00,9885,8634,Juventus,Barcelona,True
+3461743,champions,2020-10-28 20:00:00,8302,9851,Sevilla,Rennes,True
+3461639,champions,2020-11-03 17:55:00,8710,9906,Lokomotiv Moscow,Atlético Madrid,True
+3461654,champions,2020-11-03 20:00:00,8633,8636,Real Madrid,Inter,True
+3462010,champions,2020-11-04 20:00:00,8634,8688,Barcelona,Dynamo Kyiv,True
+3461744,champions,2020-11-04 20:00:00,8302,168719,Sevilla,FC Krasnodar,True
+3461747,champions,2020-11-24 17:55:00,168719,8302,FC Krasnodar,Sevilla,True
+3462013,champions,2020-11-24 20:00:00,8688,8634,Dynamo Kyiv,Barcelona,True
+3461644,champions,2020-11-25 20:00:00,9906,8710,Atlético Madrid,Lokomotiv Moscow,True
+3461656,champions,2020-11-25 20:00:00,8636,8633,Inter,Real Madrid,True
+3461657,champions,2020-12-01 17:55:00,9728,8633,Shakhtar Donetsk,Real Madrid,True
+3461646,champions,2020-12-01 20:00:00,9906,9823,Atlético Madrid,Bayern München,True
+3462015,champions,2020-12-02 20:00:00,8222,8634,Ferencváros,Barcelona,True
+3461749,champions,2020-12-02 20:00:00,8302,8455,Sevilla,Chelsea,True
+3462016,champions,2020-12-08 20:00:00,8634,9885,Barcelona,Juventus,True
+3461751,champions,2020-12-08 20:00:00,9851,8302,Rennes,Sevilla,True
+3461659,champions,2020-12-09 20:00:00,8633,9788,Real Madrid,Borussia Mönchengladbach,True
+3461648,champions,2020-12-09 20:00:00,10013,9906,Salzburg,Atlético Madrid,True
+3497096,champions,2021-02-16 20:00:00,8634,9847,Barcelona,Paris Saint-Germain,True
+3497098,champions,2021-02-17 20:00:00,8302,9789,Sevilla,Borussia Dortmund,True
+3497090,champions,2021-02-23 20:00:00,9906,8455,Atlético Madrid,Chelsea,True
+3497100,champions,2021-02-24 20:00:00,8524,8633,Atalanta,Real Madrid,True
+3497099,champions,2021-03-09 20:00:00,9789,8302,Borussia Dortmund,Sevilla,True
+3497097,champions,2021-03-10 20:00:00,9847,8634,Paris Saint-Germain,Barcelona,True
+3497101,champions,2021-03-16 20:00:00,8633,8524,Real Madrid,Atalanta,True
+3497091,champions,2021-03-17 20:00:00,8455,9906,Chelsea,Atlético Madrid,True
+3557617,champions,2021-04-06 19:00:00,8633,8650,Real Madrid,Liverpool,True
+3557618,champions,2021-04-14 19:00:00,8650,8633,Liverpool,Real Madrid,True
+3557619,champions,2021-04-27 19:00:00,8633,8455,Real Madrid,Chelsea,True
+3557620,champions,2021-05-05 19:00:00,8455,8633,Chelsea,Real Madrid,True
+3714070,champions,2021-09-14 16:45:00,8302,10013,Sevilla,Salzburg,True
+3714046,champions,2021-09-14 19:00:00,8634,9823,Barcelona,Bayern München,True
+3714059,champions,2021-09-14 19:00:00,10205,8524,Villarreal,Atalanta,True
+3714010,champions,2021-09-15 19:00:00,9906,9773,Atlético Madrid,FC Porto,True
+3714035,champions,2021-09-15 19:00:00,8636,8633,Inter,Real Madrid,True
+3714012,champions,2021-09-28 19:00:00,8564,9906,Milan,Atlético Madrid,True
+3714037,champions,2021-09-28 19:00:00,8633,9729,Real Madrid,FC Sheriff,True
+3714049,champions,2021-09-29 19:00:00,9772,8634,Benfica,Barcelona,True
+3714061,champions,2021-09-29 19:00:00,10260,10205,Manchester United,Villarreal,True
+3714073,champions,2021-09-29 19:00:00,8721,8302,Wolfsburg,Sevilla,True
+3714014,champions,2021-10-19 19:00:00,9906,8650,Atlético Madrid,Liverpool,True
+3714038,champions,2021-10-19 19:00:00,9728,8633,Shakhtar Donetsk,Real Madrid,True
+3714050,champions,2021-10-20 16:45:00,8634,8688,Barcelona,Dynamo Kyiv,True
+3714075,champions,2021-10-20 19:00:00,8639,8302,Lille,Sevilla,True
+3714062,champions,2021-10-20 19:00:00,10192,10205,Young Boys,Villarreal,True
+3714052,champions,2021-11-02 20:00:00,8688,8634,Dynamo Kyiv,Barcelona,True
+3714077,champions,2021-11-02 20:00:00,8302,8639,Sevilla,Lille,True
+3714064,champions,2021-11-02 20:00:00,10205,10192,Villarreal,Young Boys,True
+3714040,champions,2021-11-03 17:45:00,8633,9728,Real Madrid,Shakhtar Donetsk,True
+3714017,champions,2021-11-03 20:00:00,8650,9906,Liverpool,Atlético Madrid,True
+3714066,champions,2021-11-23 17:50:00,10205,10260,Villarreal,Manchester United,True
+3714055,champions,2021-11-23 20:00:00,8634,9772,Barcelona,Benfica,True
+3714078,champions,2021-11-23 20:00:00,8302,8721,Sevilla,Wolfsburg,True
+3714018,champions,2021-11-24 20:00:00,9906,8564,Atlético Madrid,Milan,True
+3714043,champions,2021-11-24 20:00:00,9729,8633,FC Sheriff,Real Madrid,True
+3714020,champions,2021-12-07 20:00:00,9773,9906,FC Porto,Atlético Madrid,True
+3714044,champions,2021-12-07 20:00:00,8633,8636,Real Madrid,Inter,True
+3714057,champions,2021-12-08 20:00:00,9823,8634,Bayern München,Barcelona,True
+3714080,champions,2021-12-08 20:00:00,10013,8302,Salzburg,Sevilla,True
+3714069,champions,2021-12-09 18:00:00,8524,10205,Atalanta,Villarreal,True
+3780921,champions,2022-02-15 20:00:00,9847,8633,Paris Saint-Germain,Real Madrid,True
+3780919,champions,2022-02-22 20:00:00,10205,9885,Villarreal,Juventus,True
+3780918,champions,2022-02-23 20:00:00,9906,10260,Atlético Madrid,Manchester United,True
+3780929,champions,2022-03-09 20:00:00,8633,9847,Real Madrid,Paris Saint-Germain,True
+3780926,champions,2022-03-15 20:00:00,10260,9906,Manchester United,Atlético Madrid,True
+3780927,champions,2022-03-16 20:00:00,9885,10205,Juventus,Villarreal,True
+3846343,champions,2022-04-05 19:00:00,8456,9906,Manchester City,Atlético Madrid,True
+3846341,champions,2022-04-06 19:00:00,8455,8633,Chelsea,Real Madrid,True
+3846345,champions,2022-04-06 19:00:00,10205,9823,Villarreal,Bayern München,True
+3846346,champions,2022-04-12 19:00:00,9823,10205,Bayern München,Villarreal,True
+3846342,champions,2022-04-12 19:00:00,8633,8455,Real Madrid,Chelsea,True
+3846344,champions,2022-04-13 19:00:00,9906,8456,Atlético Madrid,Manchester City,True
+3846447,champions,2022-04-26 19:00:00,8456,8633,Manchester City,Real Madrid,True
+3846449,champions,2022-04-27 19:00:00,8650,10205,Liverpool,Villarreal,True
+3846450,champions,2022-05-03 19:00:00,10205,8650,Villarreal,Liverpool,True
+3846448,champions,2022-05-04 19:00:00,8633,8456,Real Madrid,Manchester City,True
+3846451,champions,2022-05-28 19:36:00,8650,8633,Liverpool,Real Madrid,True
+4010150,champions,2022-09-06 19:00:00,9925,8633,Celtic,Real Madrid,True
+4010157,champions,2022-09-06 19:00:00,8302,8456,Sevilla,Manchester City,True
+4010138,champions,2022-09-07 19:00:00,9906,9773,Atlético Madrid,FC Porto,True
+4010163,champions,2022-09-07 19:00:00,8634,6033,Barcelona,Viktoria Plzeň,True
+4010140,champions,2022-09-13 19:00:00,8178,9906,Bayer Leverkusen,Atlético Madrid,True
+4010165,champions,2022-09-13 19:00:00,9823,8634,Bayern München,Barcelona,True
+4010231,champions,2022-09-14 19:00:00,8391,8302,FC København,Sevilla,True
+4010212,champions,2022-09-14 19:00:00,8633,178475,Real Madrid,RB Leipzig,True
+4010143,champions,2022-10-04 19:00:00,8342,9906,Club Brugge,Atlético Madrid,True
+4010168,champions,2022-10-04 19:00:00,8636,8634,Inter,Barcelona,True
+4010153,champions,2022-10-05 19:00:00,8633,9728,Real Madrid,Shakhtar Donetsk,True
+4010159,champions,2022-10-05 19:00:00,8302,9789,Sevilla,Borussia Dortmund,True
+4010161,champions,2022-10-11 19:00:00,9789,8302,Borussia Dortmund,Sevilla,True
+4010154,champions,2022-10-11 19:00:00,9728,8633,Shakhtar Donetsk,Real Madrid,True
+4010145,champions,2022-10-12 16:45:00,9906,8342,Atlético Madrid,Club Brugge,True
+4010169,champions,2022-10-12 19:00:00,8634,8636,Barcelona,Inter,True
+4010232,champions,2022-10-25 16:45:00,8302,8391,Sevilla,FC København,True
+4010214,champions,2022-10-25 19:00:00,178475,8633,RB Leipzig,Real Madrid,True
+4010147,champions,2022-10-26 19:00:00,9906,8178,Atlético Madrid,Bayer Leverkusen,True
+4010172,champions,2022-10-26 19:00:00,8634,9823,Barcelona,Bayern München,True
+4010148,champions,2022-11-01 17:45:00,9773,9906,FC Porto,Atlético Madrid,True
+4010174,champions,2022-11-01 20:00:00,6033,8634,Viktoria Plzeň,Barcelona,True
+4010215,champions,2022-11-02 17:45:00,8633,9925,Real Madrid,Celtic,True
+4010234,champions,2022-11-02 20:00:00,8456,8302,Manchester City,Sevilla,True
+4060604,champions,2023-02-21 20:00:00,8650,8633,Liverpool,Real Madrid,True
+4060605,champions,2023-03-15 20:00:00,8633,8650,Real Madrid,Liverpool,True
+4140596,champions,2023-04-12 19:00:00,8633,8455,Real Madrid,Chelsea,True
+4140597,champions,2023-04-18 19:00:00,8455,8633,Chelsea,Real Madrid,True
+4140606,champions,2023-05-09 19:00:00,8633,8456,Real Madrid,Manchester City,True
+4140607,champions,2023-05-17 19:00:00,8456,8633,Manchester City,Real Madrid,True
+4314984,champions,2023-09-19 19:00:00,8634,9988,Barcelona,Royal Antwerp,True
+4315032,champions,2023-09-19 19:00:00,8543,9906,Lazio,Atlético Madrid,True
+4315008,champions,2023-09-20 16:45:00,8633,8149,Real Madrid,Union Berlin,True
+4315057,champions,2023-09-20 19:00:00,8560,8636,Real Sociedad,Inter,True
+4315021,champions,2023-09-20 19:00:00,8302,8588,Sevilla,Lens,True
+4315058,champions,2023-10-03 16:45:00,10013,8560,Salzburg,Real Sociedad,True
+4315023,champions,2023-10-03 19:00:00,8640,8302,PSV Eindhoven,Sevilla,True
+4315011,champions,2023-10-03 19:00:00,9875,8633,Napoli,Real Madrid,True
+4315034,champions,2023-10-04 16:45:00,9906,10235,Atlético Madrid,Feyenoord,True
+4314986,champions,2023-10-04 19:00:00,9773,8634,FC Porto,Barcelona,True
+4315061,champions,2023-10-24 19:00:00,9772,8560,Benfica,Real Sociedad,True
+4315012,champions,2023-10-24 19:00:00,10264,8633,Braga,Real Madrid,True
+4315024,champions,2023-10-24 19:00:00,8302,9825,Sevilla,Arsenal,True
+4314988,champions,2023-10-25 16:45:00,8634,9728,Barcelona,Shakhtar Donetsk,True
+4315036,champions,2023-10-25 19:00:00,9925,9906,Celtic,Atlético Madrid,True
+4314990,champions,2023-11-07 17:45:00,9728,8634,Shakhtar Donetsk,Barcelona,True
+4315038,champions,2023-11-07 20:00:00,9906,9925,Atlético Madrid,Celtic,True
+4315062,champions,2023-11-08 17:45:00,8560,9772,Real Sociedad,Benfica,True
+4315026,champions,2023-11-08 20:00:00,9825,8302,Arsenal,Sevilla,True
+4315015,champions,2023-11-08 20:00:00,8633,10264,Real Madrid,Braga,True
+4314992,champions,2023-11-28 20:00:00,8634,9773,Barcelona,FC Porto,True
+4315040,champions,2023-11-28 20:00:00,10235,9906,Feyenoord,Atlético Madrid,True
+4315029,champions,2023-11-29 17:45:00,8302,8640,Sevilla,PSV Eindhoven,True
+4315016,champions,2023-11-29 20:00:00,8633,9875,Real Madrid,Napoli,True
+4315065,champions,2023-11-29 20:00:00,8560,10013,Real Sociedad,Salzburg,True
+4315031,champions,2023-12-12 17:45:00,8588,8302,Lens,Sevilla,True
+4315066,champions,2023-12-12 20:00:00,8636,8560,Inter,Real Sociedad,True
+4315019,champions,2023-12-12 20:00:00,8149,8633,Union Berlin,Real Madrid,True
+4315042,champions,2023-12-13 20:00:00,9906,8543,Atlético Madrid,Lazio,True
+4314994,champions,2023-12-13 20:00:00,9988,8634,Royal Antwerp,Barcelona,True
+4384184,champions,2024-02-13 20:00:00,178475,8633,RB Leipzig,Real Madrid,True
+4384179,champions,2024-02-14 20:00:00,9847,8560,Paris Saint-Germain,Real Sociedad,True
+4384180,champions,2024-02-20 20:00:00,8636,9906,Inter,Atlético Madrid,True
+4384178,champions,2024-02-21 20:00:00,9875,8634,Napoli,Barcelona,True
+4384187,champions,2024-03-05 20:00:00,8560,9847,Real Sociedad,Paris Saint-Germain,True
+4384192,champions,2024-03-06 20:00:00,8633,178475,Real Madrid,RB Leipzig,True
+4384186,champions,2024-03-12 20:00:00,8634,9875,Barcelona,Napoli,True
+4384188,champions,2024-03-13 20:00:00,9906,8636,Atlético Madrid,Inter,True
+4446283,champions,2024-04-09 19:00:00,8633,8456,Real Madrid,Manchester City,True
+4446281,champions,2024-04-10 19:00:00,9906,9789,Atlético Madrid,Borussia Dortmund,True
+4446285,champions,2024-04-10 19:00:00,9847,8634,Paris Saint-Germain,Barcelona,True
+4446286,champions,2024-04-16 19:00:00,8634,9847,Barcelona,Paris Saint-Germain,True
+4446282,champions,2024-04-16 19:00:00,9789,9906,Borussia Dortmund,Atlético Madrid,True
+4446284,champions,2024-04-17 19:00:00,8456,8633,Manchester City,Real Madrid,True
+4446289,champions,2024-04-30 19:00:00,9823,8633,Bayern München,Real Madrid,True
+4446290,champions,2024-05-08 19:00:00,8633,9823,Real Madrid,Bayern München,True
+4446291,champions,2024-06-01 19:00:00,9789,8633,Borussia Dortmund,Real Madrid,True
+4621548,champions,2024-09-17 19:00:00,8633,10269,Real Madrid,VfB Stuttgart,True
+4621579,champions,2024-09-18 19:00:00,9847,7732,Paris Saint-Germain,Girona,True
+4621519,champions,2024-09-19 19:00:00,9906,178475,Atlético Madrid,RB Leipzig,True
+4621541,champions,2024-09-19 19:00:00,9829,8634,Monaco,Barcelona,True
+4621538,champions,2024-10-01 19:00:00,8634,10192,Barcelona,Young Boys,True
+4621627,champions,2024-10-02 16:45:00,7732,10235,Girona,Feyenoord,True
+4621569,champions,2024-10-02 19:00:00,9772,9906,Benfica,Atlético Madrid,True
+4621547,champions,2024-10-02 19:00:00,8639,8633,Lille,Real Madrid,True
+4621653,champions,2024-10-22 19:00:00,7732,6019,Girona,Slovan Bratislava,True
+4621529,champions,2024-10-22 19:00:00,8633,9789,Real Madrid,Borussia Dortmund,True
+4621570,champions,2024-10-23 19:00:00,9906,8639,Atlético Madrid,Lille,True
+4621509,champions,2024-10-23 19:00:00,8634,9823,Barcelona,Bayern München,True
+4621633,champions,2024-11-05 17:45:00,8640,7732,PSV Eindhoven,Girona,True
+4621544,champions,2024-11-05 20:00:00,8633,8564,Real Madrid,Milan,True
+4621539,champions,2024-11-06 20:00:00,8687,8634,FK Crvena Zvezda,Barcelona,True
+4621568,champions,2024-11-06 20:00:00,9847,9906,Paris Saint-Germain,Atlético Madrid,True
+4621573,champions,2024-11-26 17:45:00,10247,9906,Sparta Prague,Atlético Madrid,True
+4621540,champions,2024-11-26 20:00:00,8634,8521,Barcelona,Brest,True
+4621662,champions,2024-11-27 17:45:00,10014,7732,Sturm Graz,Girona,True
+4621543,champions,2024-11-27 20:00:00,8650,8633,Liverpool,Real Madrid,True
+4621556,champions,2024-12-10 17:45:00,7732,8650,Girona,Liverpool,True
+4621545,champions,2024-12-10 20:00:00,8524,8633,Atalanta,Real Madrid,True
+4621572,champions,2024-12-11 17:45:00,9906,6019,Atlético Madrid,Slovan Bratislava,True
+4621528,champions,2024-12-11 20:00:00,9789,8634,Borussia Dortmund,Barcelona,True
+4621560,champions,2025-01-21 20:00:00,9906,8178,Atlético Madrid,Bayer Leverkusen,True
+4621537,champions,2025-01-21 20:00:00,9772,8634,Benfica,Barcelona,True
+4621622,champions,2025-01-22 20:00:00,8564,7732,Milan,Girona,True
+4621546,champions,2025-01-22 20:00:00,8633,10013,Real Madrid,Salzburg,True
+4621536,champions,2025-01-29 20:00:00,8634,8524,Barcelona,Atalanta,True
+4621549,champions,2025-01-29 20:00:00,8521,8633,Brest,Real Madrid,True
+4621607,champions,2025-01-29 20:00:00,7732,9825,Girona,Arsenal,True
+4621571,champions,2025-01-29 20:00:00,10013,9906,Salzburg,Atlético Madrid,True
+4723900,champions,2025-02-11 20:00:00,8456,8633,Manchester City,Real Madrid,True
+4723901,champions,2025-02-19 20:00:00,8633,8456,Real Madrid,Manchester City,True
+4737550,champions,2025-03-04 20:00:00,8633,9906,Real Madrid,Atlético Madrid,True
+4737555,champions,2025-03-05 20:00:00,9772,8634,Benfica,Barcelona,True
+4737563,champions,2025-03-11 17:45:00,8634,9772,Barcelona,Benfica,True
+4737558,champions,2025-03-12 20:00:00,9906,8633,Atlético Madrid,Real Madrid,True
+4737568,champions,2025-04-08 19:00:00,9825,8633,Arsenal,Real Madrid,True
+4737569,champions,2025-04-09 19:00:00,8634,9789,Barcelona,Borussia Dortmund,True
+4737573,champions,2025-04-15 19:00:00,9789,8634,Borussia Dortmund,Barcelona,True
+4737572,champions,2025-04-16 19:00:00,8633,9825,Real Madrid,Arsenal,True
+4737576,champions,2025-04-30 19:00:00,8634,8636,Barcelona,Inter,True
+4737578,champions,2025-05-06 19:00:00,8636,8634,Inter,Barcelona,True
+4947178,champions,2025-09-16 16:45:00,8315,9825,Athletic Club,Arsenal,True
+4947120,champions,2025-09-16 19:00:00,8633,8592,Real Madrid,Marseille,True
+4947209,champions,2025-09-16 19:00:00,8586,10205,Tottenham Hotspur,Villarreal,True
+4947139,champions,2025-09-17 19:00:00,8650,9906,Liverpool,Atlético Madrid,True
+4947153,champions,2025-09-18 19:00:00,10261,8634,Newcastle United,Barcelona,True
+4947123,champions,2025-09-30 16:45:00,8037,8633,Kairat Almaty,Real Madrid,True
+4947194,champions,2025-09-30 19:00:00,9906,9810,Atlético Madrid,Eintracht Frankfurt,True
+4947145,champions,2025-10-01 19:00:00,8634,9847,Barcelona,Paris Saint-Germain,True
+4947137,champions,2025-10-01 19:00:00,9789,8315,Borussia Dortmund,Athletic Club,True
+4947199,champions,2025-10-01 19:00:00,10205,9885,Villarreal,Juventus,True
+4947148,champions,2025-10-21 16:45:00,8634,8638,Barcelona,Olympiacos,True
+4947173,champions,2025-10-21 19:00:00,9825,9906,Arsenal,Atlético Madrid,True
+4947161,champions,2025-10-21 19:00:00,10205,8456,Villarreal,Manchester City,True
+4947244,champions,2025-10-22 16:45:00,8315,7981,Athletic Club,Qarabağ FK,True
+4947118,champions,2025-10-22 19:00:00,8633,9885,Real Madrid,Juventus,True
+4947206,champions,2025-11-04 20:00:00,9906,7978,Atlético Madrid,Union St.Gilloise,True
+4947117,champions,2025-11-04 20:00:00,8650,8633,Liverpool,Real Madrid,True
+4947211,champions,2025-11-05 17:45:00,2137,10205,Pafos FC,Villarreal,True
+4947147,champions,2025-11-05 20:00:00,8342,8634,Club Brugge,Barcelona,True
+4947245,champions,2025-11-05 20:00:00,10261,8315,Newcastle United,Athletic Club,True
+4947133,champions,2025-11-25 20:00:00,9789,10205,Borussia Dortmund,Villarreal,True
+4947109,champions,2025-11-25 20:00:00,8455,8634,Chelsea,Barcelona,True
+4947234,champions,2025-11-25 20:00:00,7787,8315,Slavia Prague,Athletic Club,True
+4947127,champions,2025-11-26 20:00:00,9906,8636,Atlético Madrid,Inter,True
+4947121,champions,2025-11-26 20:00:00,8638,8633,Olympiacos,Real Madrid,True
+4947146,champions,2025-12-09 20:00:00,8634,9810,Barcelona,Eintracht Frankfurt,True
+4947205,champions,2025-12-09 20:00:00,8640,9906,PSV Eindhoven,Atlético Madrid,True
+4947210,champions,2025-12-10 17:45:00,10205,8391,Villarreal,FC København,True
+4947159,champions,2025-12-10 20:00:00,8315,9847,Athletic Club,Paris Saint-Germain,True
+4947116,champions,2025-12-10 20:00:00,8633,8456,Real Madrid,Manchester City,True
+4947122,champions,2026-01-20 20:00:00,8633,9829,Real Madrid,Monaco,True
+4947208,champions,2026-01-20 20:00:00,10205,8593,Villarreal,Ajax,True
+4947207,champions,2026-01-21 17:45:00,8637,9906,Galatasaray,Atlético Madrid,True
+4947183,champions,2026-01-21 20:00:00,8524,8315,Atalanta,Athletic Club,True
+4947151,champions,2026-01-21 20:00:00,7787,8634,Slavia Prague,Barcelona,True
+4947227,champions,2026-01-28 20:00:00,8315,9768,Athletic Club,Sporting CP,True
+4947204,champions,2026-01-28 20:00:00,9906,8402,Atlético Madrid,Bodø/Glimt,True
+4947152,champions,2026-01-28 20:00:00,8634,8391,Barcelona,FC København,True
+4947167,champions,2026-01-28 20:00:00,8178,10205,Bayer Leverkusen,Villarreal,True
+4947119,champions,2026-01-28 20:00:00,9772,8633,Benfica,Real Madrid,True
+5161859,champions,2026-02-17 20:00:00,9772,8633,Benfica,Real Madrid,True
+5161869,champions,2026-02-18 20:00:00,8342,9906,Club Brugge,Atlético Madrid,True
+5161870,champions,2026-02-24 17:45:00,9906,8342,Atlético Madrid,Club Brugge,True
+5161860,champions,2026-02-25 20:00:00,8633,9772,Real Madrid,Benfica,True
+5205741,champions,2026-03-10 20:00:00,9906,8586,Atlético Madrid,Tottenham Hotspur,True
+5205733,champions,2026-03-10 20:00:00,10261,8634,Newcastle United,Barcelona,True
+5205731,champions,2026-03-11 20:00:00,8633,8456,Real Madrid,Manchester City,True
+5205732,champions,2026-03-17 20:00:00,8456,8633,Manchester City,Real Madrid,True
+5205734,champions,2026-03-18 17:45:00,8634,10261,Barcelona,Newcastle United,True
+5205742,champions,2026-03-18 20:00:00,8586,9906,Tottenham Hotspur,Atlético Madrid,True
+5205791,champions,2026-04-07 19:00:00,8633,9823,Real Madrid,Bayern München,True
+5205793,champions,2026-04-08 19:00:00,8634,9906,Barcelona,Atlético Madrid,True
+5205794,champions,2026-04-14 19:00:00,9906,8634,Atlético Madrid,Barcelona,True
+5205792,champions,2026-04-15 19:00:00,9823,8633,Bayern München,Real Madrid,True
+5205813,champions,2026-04-29 19:00:00,9906,9825,Atlético Madrid,Arsenal,True
+5205814,champions,2026-05-05 19:00:00,9825,9906,Arsenal,Atlético Madrid,True
+2877387,europa_league,2018-09-20 16:55:00,8302,9985,Sevilla,Standard Liège,True
+2877349,europa_league,2018-09-20 16:55:00,10205,8548,Villarreal,Rangers,True
+2877338,europa_league,2018-09-20 19:00:00,8638,8603,Olympiacos,Real Betis,True
+2877339,europa_league,2018-10-04 16:55:00,8603,4548,Real Betis,F91 Dudelange,True
+2877389,europa_league,2018-10-04 19:00:00,168719,8302,FC Krasnodar,Sevilla,True
+2877351,europa_league,2018-10-04 19:00:00,8643,10205,Spartak Moscow,Villarreal,True
+2877341,europa_league,2018-10-25 16:55:00,8564,8603,Milan,Real Betis,True
+2877392,europa_league,2018-10-25 19:00:00,8302,146396,Sevilla,Akhisarspor,True
+2877354,europa_league,2018-10-25 19:00:00,10205,10015,Villarreal,Rapid Wien,True
+2877394,europa_league,2018-11-08 17:55:00,146396,8302,Akhisarspor,Sevilla,True
+2877356,europa_league,2018-11-08 17:55:00,10015,10205,Rapid Wien,Villarreal,True
+2877343,europa_league,2018-11-08 20:00:00,8603,8564,Real Betis,Milan,True
+2877346,europa_league,2018-11-29 17:55:00,8603,8638,Real Betis,Olympiacos,True
+2877358,europa_league,2018-11-29 20:00:00,8548,10205,Rangers,Villarreal,True
+2877396,europa_league,2018-11-29 20:00:00,9985,8302,Standard Liège,Sevilla,True
+2877397,europa_league,2018-12-13 17:55:00,8302,168719,Sevilla,FC Krasnodar,True
+2877359,europa_league,2018-12-13 17:55:00,10205,8643,Villarreal,Spartak Moscow,True
+2877347,europa_league,2018-12-13 20:00:00,4548,8603,F91 Dudelange,Real Betis,True
+2947639,europa_league,2019-02-14 17:55:00,8543,8302,Lazio,Sevilla,True
+2947637,europa_league,2019-02-14 17:55:00,9851,8603,Rennes,Real Betis,True
+2947636,europa_league,2019-02-14 20:00:00,9925,10267,Celtic,Valencia,True
+2947641,europa_league,2019-02-14 20:00:00,9768,10205,Sporting CP,Villarreal,True
+2947655,europa_league,2019-02-20 17:00:00,8302,8543,Sevilla,Lazio,True
+2947652,europa_league,2019-02-21 17:55:00,10267,9925,Valencia,Celtic,True
+2947657,europa_league,2019-02-21 17:55:00,10205,9768,Villarreal,Sporting CP,True
+2947653,europa_league,2019-02-21 20:00:00,8603,9851,Real Betis,Rennes,True
+2997308,europa_league,2019-03-07 17:55:00,8302,7787,Sevilla,Slavia Prague,True
+2997310,europa_league,2019-03-07 17:55:00,8698,10205,Zenit St. Petersburg,Villarreal,True
+2997307,europa_league,2019-03-07 20:00:00,10267,168719,Valencia,FC Krasnodar,True
+2997315,europa_league,2019-03-14 17:55:00,168719,10267,FC Krasnodar,Valencia,True
+2997316,europa_league,2019-03-14 20:00:00,7787,8302,Slavia Prague,Sevilla,True
+2997318,europa_league,2019-03-14 20:00:00,10205,8698,Villarreal,Zenit St. Petersburg,True
+3010113,europa_league,2019-04-11 19:00:00,10205,10267,Villarreal,Valencia,True
+3010114,europa_league,2019-04-18 19:00:00,10267,10205,Valencia,Villarreal,True
+3010119,europa_league,2019-05-02 19:00:00,9825,10267,Arsenal,Valencia,True
+3010120,europa_league,2019-05-09 19:00:00,10267,9825,Valencia,Arsenal,True
+3171246,europa_league,2019-09-19 16:55:00,8305,9752,Getafe,Trabzonspor,True
+3171181,europa_league,2019-09-19 16:55:00,7981,8302,Qarabağ FK,Sevilla,True
+3171276,europa_league,2019-09-19 19:00:00,8558,8222,Espanyol,Ferencváros,True
+3171279,europa_league,2019-10-03 16:55:00,9760,8558,CSKA Moscow,Espanyol,True
+3171231,europa_league,2019-10-03 19:00:00,168719,8305,FC Krasnodar,Getafe,True
+3171182,europa_league,2019-10-03 19:00:00,8302,8621,Sevilla,APOEL Nicosia,True
+3171273,europa_league,2019-10-24 16:55:00,210173,8558,Ludogorets Razgrad,Espanyol,True
+3171247,europa_league,2019-10-24 19:00:00,8305,9931,Getafe,Basel,True
+3171183,europa_league,2019-10-24 19:00:00,8302,4548,Sevilla,F91 Dudelange,True
+3171249,europa_league,2019-11-07 17:55:00,9931,8305,Basel,Getafe,True
+3171178,europa_league,2019-11-07 17:55:00,4548,8302,F91 Dudelange,Sevilla,True
+3171281,europa_league,2019-11-07 20:00:00,8558,210173,Espanyol,Ludogorets Razgrad,True
+3171266,europa_league,2019-11-28 15:50:00,9752,8305,Trabzonspor,Getafe,True
+3171284,europa_league,2019-11-28 17:55:00,8222,8558,Ferencváros,Espanyol,True
+3171184,europa_league,2019-11-28 20:00:00,8302,7981,Sevilla,Qarabağ FK,True
+3171175,europa_league,2019-12-12 17:55:00,8621,8302,APOEL Nicosia,Sevilla,True
+3171251,europa_league,2019-12-12 17:55:00,8305,168719,Getafe,FC Krasnodar,True
+3171277,europa_league,2019-12-12 20:00:00,8558,9760,Espanyol,CSKA Moscow,True
+3236273,europa_league,2020-02-20 17:55:00,8305,8593,Getafe,Ajax,True
+3236281,europa_league,2020-02-20 18:00:00,9731,8302,CFR Cluj,Sevilla,True
+3236269,europa_league,2020-02-20 20:00:00,8602,8558,Wolverhampton Wanderers,Espanyol,True
+3236270,europa_league,2020-02-27 17:55:00,8558,8602,Espanyol,Wolverhampton Wanderers,True
+3236274,europa_league,2020-02-27 20:00:00,8593,8305,Ajax,Getafe,True
+3236282,europa_league,2020-02-27 20:00:00,8302,9731,Sevilla,CFR Cluj,True
+3284799,europa_league,2020-08-05 19:00:00,8636,8305,Inter,Getafe,True
+3284800,europa_league,2020-08-06 16:55:00,8302,8686,Sevilla,Roma,True
+3363678,europa_league,2020-08-11 19:00:00,8602,8302,Wolverhampton Wanderers,Sevilla,True
+3363679,europa_league,2020-08-16 19:00:00,8302,10260,Sevilla,Manchester United,True
+3363681,europa_league,2020-08-21 19:00:00,8302,8636,Sevilla,Inter,True
+3462298,europa_league,2020-10-22 16:55:00,8640,7878,PSV Eindhoven,Granada,True
+3462311,europa_league,2020-10-22 16:55:00,10162,8560,Rijeka,Real Sociedad,True
+3462346,europa_league,2020-10-22 19:00:00,10205,6265,Villarreal,Sivasspor,True
+3462348,europa_league,2020-10-29 17:55:00,7981,10205,Qarabağ FK,Villarreal,True
+3462301,europa_league,2020-10-29 20:00:00,7878,8619,Granada,PAOK Thessaloniki,True
+3462312,europa_league,2020-10-29 20:00:00,8560,9875,Real Sociedad,Napoli,True
+3462303,europa_league,2020-11-05 17:55:00,8044,7878,Omonia Nicosia,Granada,True
+3462314,europa_league,2020-11-05 17:55:00,8560,10229,Real Sociedad,AZ Alkmaar,True
+3462351,europa_league,2020-11-05 21:10:00,10205,7855,Villarreal,Maccabi Tel Aviv,True
+3462352,europa_league,2020-11-26 17:55:00,7855,10205,Maccabi Tel Aviv,Villarreal,True
+3462317,europa_league,2020-11-26 20:00:00,10229,8560,AZ Alkmaar,Real Sociedad,True
+3462305,europa_league,2020-11-26 20:00:00,7878,8044,Granada,Omonia Nicosia,True
+3462355,europa_league,2020-12-03 17:55:00,6265,10205,Sivasspor,Villarreal,True
+3462306,europa_league,2020-12-03 20:00:00,7878,8640,Granada,PSV Eindhoven,True
+3462319,europa_league,2020-12-03 20:00:00,8560,10162,Real Sociedad,Rijeka,True
+3462309,europa_league,2020-12-10 17:55:00,8619,7878,PAOK Thessaloniki,Granada,True
+3462320,europa_league,2020-12-10 17:55:00,9875,8560,Napoli,Real Sociedad,True
+3462356,europa_league,2020-12-10 20:00:00,10205,7981,Villarreal,Qarabağ FK,True
+3497181,europa_league,2021-02-18 17:55:00,8560,10260,Real Sociedad,Manchester United,True
+3497201,europa_league,2021-02-18 20:00:00,7878,9875,Granada,Napoli,True
+3497191,europa_league,2021-02-18 20:00:00,10013,10205,Salzburg,Villarreal,True
+3497202,europa_league,2021-02-25 17:55:00,9875,7878,Napoli,Granada,True
+3497192,europa_league,2021-02-25 17:55:00,10205,10013,Villarreal,Salzburg,True
+3497182,europa_league,2021-02-25 20:00:00,10260,8560,Manchester United,Real Sociedad,True
+3542757,europa_league,2021-03-11 17:55:00,8688,10205,Dynamo Kyiv,Villarreal,True
+3542769,europa_league,2021-03-11 20:00:00,7878,9917,Granada,Molde,True
+3542770,europa_league,2021-03-18 17:55:00,9917,7878,Molde,Granada,True
+3542758,europa_league,2021-03-18 20:00:00,10205,8688,Villarreal,Dynamo Kyiv,True
+3557703,europa_league,2021-04-08 19:00:00,10156,10205,Dinamo Zagreb,Villarreal,True
+3557697,europa_league,2021-04-08 19:00:00,7878,10260,Granada,Manchester United,True
+3557698,europa_league,2021-04-15 19:00:00,10260,7878,Manchester United,Granada,True
+3557704,europa_league,2021-04-15 19:00:00,10205,10156,Villarreal,Dinamo Zagreb,True
+3557707,europa_league,2021-04-29 19:00:00,10205,9825,Villarreal,Arsenal,True
+3557708,europa_league,2021-05-06 19:00:00,9825,10205,Arsenal,Villarreal,True
+3557709,europa_league,2021-05-26 19:00:00,10205,10260,Villarreal,Manchester United,True
+3714186,europa_league,2021-09-16 16:45:00,8603,9925,Real Betis,Celtic,True
+3714173,europa_league,2021-09-16 19:00:00,8640,8560,PSV Eindhoven,Real Sociedad,True
+3714175,europa_league,2021-09-30 16:45:00,8560,9829,Real Sociedad,Monaco,True
+3714188,europa_league,2021-09-30 19:00:00,8222,8603,Ferencváros,Real Betis,True
+3714190,europa_league,2021-10-21 16:45:00,8603,8178,Real Betis,Bayer Leverkusen,True
+3714178,europa_league,2021-10-21 19:00:00,10014,8560,Sturm Graz,Real Sociedad,True
+3714179,europa_league,2021-11-04 17:45:00,8560,10014,Real Sociedad,Sturm Graz,True
+3714191,europa_league,2021-11-04 20:00:00,8178,8603,Bayer Leverkusen,Real Betis,True
+3714194,europa_league,2021-11-25 17:45:00,8603,8222,Real Betis,Ferencváros,True
+3714182,europa_league,2021-11-25 20:00:00,9829,8560,Monaco,Real Sociedad,True
+3714183,europa_league,2021-12-09 17:45:00,8560,8640,Real Sociedad,PSV Eindhoven,True
+3714195,europa_league,2021-12-09 20:00:00,9925,8603,Celtic,Real Betis,True
+3780884,europa_league,2022-02-17 17:45:00,8634,9875,Barcelona,Napoli,True
+3780886,europa_league,2022-02-17 17:45:00,8698,8603,Zenit St. Petersburg,Real Betis,True
+3780882,europa_league,2022-02-17 20:00:00,178475,8560,RB Leipzig,Real Sociedad,True
+3780878,europa_league,2022-02-17 20:00:00,8302,10156,Sevilla,Dinamo Zagreb,True
+3780879,europa_league,2022-02-24 17:45:00,10156,8302,Dinamo Zagreb,Sevilla,True
+3780883,europa_league,2022-02-24 17:45:00,8560,178475,Real Sociedad,RB Leipzig,True
+3780887,europa_league,2022-02-24 20:00:00,8603,8698,Real Betis,Zenit St. Petersburg,True
+3780885,europa_league,2022-02-24 20:00:00,9875,8634,Napoli,Barcelona,True
+3835590,europa_league,2022-03-09 17:45:00,8603,9810,Real Betis,Eintracht Frankfurt,True
+3835598,europa_league,2022-03-10 17:45:00,8302,8654,Sevilla,West Ham United,True
+3835600,europa_league,2022-03-10 20:00:00,8634,8637,Barcelona,Galatasaray,True
+3835601,europa_league,2022-03-17 17:45:00,8637,8634,Galatasaray,Barcelona,True
+3835591,europa_league,2022-03-17 20:00:00,9810,8603,Eintracht Frankfurt,Real Betis,True
+3835599,europa_league,2022-03-17 20:00:00,8654,8302,West Ham United,Sevilla,True
+3846456,europa_league,2022-04-07 19:00:00,9810,8634,Eintracht Frankfurt,Barcelona,True
+3846457,europa_league,2022-04-14 19:00:00,8634,9810,Barcelona,Eintracht Frankfurt,True
+4010532,europa_league,2022-09-08 16:45:00,9861,8603,HJK,Real Betis,True
+4010305,europa_league,2022-09-08 19:00:00,10260,8560,Manchester United,Real Sociedad,True
+4010308,europa_league,2022-09-15 16:45:00,8560,8044,Real Sociedad,Omonia Nicosia,True
+4010535,europa_league,2022-09-15 19:00:00,8603,210173,Real Betis,Ludogorets Razgrad,True
+4010309,europa_league,2022-10-06 16:45:00,9729,8560,FC Sheriff,Real Sociedad,True
+4010537,europa_league,2022-10-06 19:00:00,8686,8603,Roma,Real Betis,True
+4010538,europa_league,2022-10-13 16:45:00,8603,8686,Real Betis,Roma,True
+4010312,europa_league,2022-10-13 19:00:00,8560,9729,Real Sociedad,FC Sheriff,True
+4010541,europa_league,2022-10-27 16:45:00,210173,8603,Ludogorets Razgrad,Real Betis,True
+4010314,europa_league,2022-10-27 19:00:00,8044,8560,Omonia Nicosia,Real Sociedad,True
+4010315,europa_league,2022-11-03 17:45:00,8560,10260,Real Sociedad,Manchester United,True
+4010542,europa_league,2022-11-03 20:00:00,8603,9861,Real Betis,HJK,True
+4060616,europa_league,2023-02-16 17:45:00,8634,10260,Barcelona,Manchester United,True
+4060622,europa_league,2023-02-16 20:00:00,8302,8640,Sevilla,PSV Eindhoven,True
+4060630,europa_league,2023-02-23 17:45:00,8640,8302,PSV Eindhoven,Sevilla,True
+4060624,europa_league,2023-02-23 20:00:00,10260,8634,Manchester United,Barcelona,True
+4128632,europa_league,2023-03-09 17:45:00,8686,8560,Roma,Real Sociedad,True
+4128631,europa_league,2023-03-09 20:00:00,10260,8603,Manchester United,Real Betis,True
+4128627,europa_league,2023-03-09 20:00:00,8302,8695,Sevilla,Fenerbahçe,True
+4128635,europa_league,2023-03-16 17:45:00,8695,8302,Fenerbahçe,Sevilla,True
+4128639,europa_league,2023-03-16 17:45:00,8603,10260,Real Betis,Manchester United,True
+4128640,europa_league,2023-03-16 20:00:00,8560,8686,Real Sociedad,Roma,True
+4140613,europa_league,2023-04-13 19:00:00,10260,8302,Manchester United,Sevilla,True
+4140614,europa_league,2023-04-20 19:00:00,8302,10260,Sevilla,Manchester United,True
+4140621,europa_league,2023-05-11 19:00:00,9885,8302,Juventus,Sevilla,True
+4140622,europa_league,2023-05-18 19:00:00,8302,9885,Sevilla,Juventus,True
+4140625,europa_league,2023-05-31 19:00:00,8302,8686,Sevilla,Roma,True
+4315142,europa_league,2023-09-21 16:45:00,10200,10205,Panathinaikos,Villarreal,True
+4315130,europa_league,2023-09-21 19:00:00,8548,8603,Rangers,Real Betis,True
+4315131,europa_league,2023-10-05 16:45:00,8603,10247,Real Betis,Sparta Prague,True
+4315143,europa_league,2023-10-05 19:00:00,10205,9851,Villarreal,Rennes,True
+4315134,europa_league,2023-10-26 16:45:00,2136,8603,Aris Limassol,Real Betis,True
+4315148,europa_league,2023-11-09 17:45:00,10185,10205,Maccabi Haifa,Villarreal,True
+4315135,europa_league,2023-11-09 20:00:00,8603,2136,Real Betis,Aris Limassol,True
+4315137,europa_league,2023-11-30 17:45:00,10247,8603,Sparta Prague,Real Betis,True
+4315150,europa_league,2023-11-30 20:00:00,10205,10200,Villarreal,Panathinaikos,True
+4315146,europa_league,2023-12-06 20:00:00,10205,10185,Villarreal,Maccabi Haifa,True
+4315151,europa_league,2023-12-14 17:45:00,9851,10205,Rennes,Villarreal,True
+4315139,europa_league,2023-12-14 20:00:00,8603,8548,Real Betis,Rangers,True
+4430798,europa_league,2024-03-07 20:00:00,8592,10205,Marseille,Villarreal,True
+4430799,europa_league,2024-03-14 17:45:00,10205,8592,Villarreal,Marseille,True
+4622155,europa_league,2024-09-25 19:00:00,9831,8560,Nice,Real Sociedad,True
+4622021,europa_league,2024-09-26 19:00:00,8686,8315,Roma,Athletic Club,True
+4622075,europa_league,2024-10-03 16:45:00,8560,8635,Real Sociedad,Anderlecht,True
+4622143,europa_league,2024-10-03 19:00:00,8315,10229,Athletic Club,AZ Alkmaar,True
+4622052,europa_league,2024-10-24 16:45:00,7855,8560,Maccabi Tel Aviv,Real Sociedad,True
+4622142,europa_league,2024-10-24 19:00:00,8315,7787,Athletic Club,Slavia Prague,True
+4622095,europa_league,2024-11-07 17:45:00,210173,8315,Ludogorets Razgrad,Athletic Club,True
+4622121,europa_league,2024-11-07 20:00:00,6033,8560,Viktoria Plzeň,Real Sociedad,True
+4622145,europa_league,2024-11-28 17:45:00,8315,8014,Athletic Club,Elfsborg,True
+4622072,europa_league,2024-11-28 20:00:00,8560,8593,Real Sociedad,Ajax,True
+4622058,europa_league,2024-12-11 15:30:00,8695,8315,Fenerbahçe,Athletic Club,True
+4622074,europa_league,2024-12-12 20:00:00,8560,8688,Real Sociedad,Dynamo Kyiv,True
+4622127,europa_league,2025-01-22 15:30:00,10188,8315,Beşiktaş,Athletic Club,True
+4622044,europa_league,2025-01-23 20:00:00,8543,8560,Lazio,Real Sociedad,True
+4622144,europa_league,2025-01-30 20:00:00,8315,6033,Athletic Club,Viktoria Plzeň,True
+4622073,europa_league,2025-01-30 20:00:00,8560,8619,Real Sociedad,PAOK Thessaloniki,True
+4723942,europa_league,2025-02-13 17:45:00,8113,8560,FC Midtjylland,Real Sociedad,True
+4723950,europa_league,2025-02-20 20:00:00,8560,8113,Real Sociedad,FC Midtjylland,True
+4737589,europa_league,2025-03-06 17:45:00,8560,10260,Real Sociedad,Manchester United,True
+4737592,europa_league,2025-03-06 20:00:00,8686,8315,Roma,Athletic Club,True
+4737600,europa_league,2025-03-13 17:45:00,8315,8686,Athletic Club,Roma,True
+4737597,europa_league,2025-03-13 20:00:00,10260,8560,Manchester United,Real Sociedad,True
+4737718,europa_league,2025-04-10 19:00:00,8548,8315,Rangers,Athletic Club,True
+4737722,europa_league,2025-04-17 19:00:00,8315,8548,Athletic Club,Rangers,True
+4737725,europa_league,2025-05-01 19:00:00,8315,10260,Athletic Club,Manchester United,True
+4737727,europa_league,2025-05-08 19:00:00,10260,8315,Manchester United,Athletic Club,True
+4947798,europa_league,2025-09-24 19:00:00,8603,10203,Real Betis,Nottingham Forest,True
+4947892,europa_league,2025-09-25 19:00:00,10269,9910,VfB Stuttgart,Celta Vigo,True
+4947860,europa_league,2025-10-02 16:45:00,210173,8603,Ludogorets Razgrad,Real Betis,True
+4947886,europa_league,2025-10-02 19:00:00,9910,8619,Celta Vigo,PAOK Thessaloniki,True
+4947909,europa_league,2025-10-23 16:45:00,9987,8603,Genk,Real Betis,True
+4947887,europa_league,2025-10-23 19:00:00,9910,9831,Celta Vigo,Nice,True
+4947795,europa_league,2025-11-06 17:45:00,10156,9910,Dinamo Zagreb,Celta Vigo,True
+4947797,europa_league,2025-11-06 20:00:00,8603,9748,Real Betis,Lyon,True
+4947863,europa_league,2025-11-27 17:45:00,210173,9910,Ludogorets Razgrad,Celta Vigo,True
+4947799,europa_league,2025-11-27 20:00:00,8603,9908,Real Betis,FC Utrecht,True
+4947792,europa_league,2025-12-11 17:45:00,10156,8603,Dinamo Zagreb,Real Betis,True
+4947888,europa_league,2025-12-11 20:00:00,9910,9857,Celta Vigo,Bologna,True
+4947824,europa_league,2026-01-22 17:45:00,8619,8603,PAOK Thessaloniki,Real Betis,True
+4947885,europa_league,2026-01-22 20:00:00,9910,8639,Celta Vigo,Lille,True
+4947819,europa_league,2026-01-29 20:00:00,8687,9910,FK Crvena Zvezda,Celta Vigo,True
+4947796,europa_league,2026-01-29 20:00:00,8603,10235,Real Betis,Feyenoord,True
+5161885,europa_league,2026-02-19 17:45:00,8619,9910,PAOK Thessaloniki,Celta Vigo,True
+5161893,europa_league,2026-02-26 20:00:00,9910,8619,Celta Vigo,PAOK Thessaloniki,True
+5206094,europa_league,2026-03-12 17:45:00,10200,8603,Panathinaikos,Real Betis,True
+5206095,europa_league,2026-03-12 20:00:00,9910,9748,Celta Vigo,Lyon,True
+5206103,europa_league,2026-03-19 17:45:00,9748,9910,Lyon,Celta Vigo,True
+5206102,europa_league,2026-03-19 20:00:00,8603,10200,Real Betis,Panathinaikos,True
+5206165,europa_league,2026-04-08 16:45:00,10264,8603,Braga,Real Betis,True
+5206166,europa_league,2026-04-09 19:00:00,8358,9910,Freiburg,Celta Vigo,True
+5206170,europa_league,2026-04-16 16:45:00,9910,8358,Celta Vigo,Freiburg,True
+5206169,europa_league,2026-04-16 19:00:00,8603,10264,Real Betis,Braga,True
+4010242,conference_league,2022-09-08 16:45:00,10205,2182,Villarreal,Lech Poznań,True
+4010245,conference_league,2022-09-15 19:00:00,9754,10205,Hapoel Beer Sheva,Villarreal,True
+4010247,conference_league,2022-10-06 19:00:00,10205,10011,Villarreal,Austria Wien,True
+4010248,conference_league,2022-10-13 16:45:00,10011,10205,Austria Wien,Villarreal,True
+4010250,conference_league,2022-10-27 16:45:00,10205,9754,Villarreal,Hapoel Beer Sheva,True
+4010252,conference_league,2022-11-03 20:00:00,2182,10205,Lech Poznań,Villarreal,True
+4128794,conference_league,2023-03-09 17:45:00,8635,10205,Anderlecht,Villarreal,True
+4128795,conference_league,2023-03-16 20:00:00,10205,8635,Villarreal,Anderlecht,True
+4384282,conference_league,2024-02-15 20:00:00,8603,10156,Real Betis,Dinamo Zagreb,True
+4384290,conference_league,2024-02-22 17:45:00,10156,8603,Dinamo Zagreb,Real Betis,True
+4622207,conference_league,2024-10-03 16:45:00,8673,8603,Legia Warszawa,Real Betis,True
+4622193,conference_league,2024-10-24 19:00:00,8603,8391,Real Betis,FC København,True
+4622195,conference_league,2024-11-07 20:00:00,8603,4622,Real Betis,NK Celje,True
+4622253,conference_league,2024-11-28 20:00:00,10180,8603,Mladá Boleslav,Real Betis,True
+4622271,conference_league,2024-12-12 17:45:00,561981,8603,CS Petrocub,Real Betis,True
+4622194,conference_league,2024-12-19 20:00:00,8603,9861,Real Betis,HJK,True
+4695830,conference_league,2025-02-13 20:00:00,9991,8603,Gent,Real Betis,True
+4695838,conference_league,2025-02-20 17:45:00,8603,9991,Real Betis,Gent,True
+4737731,conference_league,2025-03-06 17:45:00,8603,7844,Real Betis,Vitória de Guimarães,True
+4737732,conference_league,2025-03-13 20:00:00,7844,8603,Vitória de Guimarães,Real Betis,True
+4737750,conference_league,2025-04-10 19:00:00,8603,1957,Real Betis,Jagiellonia Białystok,True
+4737751,conference_league,2025-04-17 16:45:00,1957,8603,Jagiellonia Białystok,Real Betis,True
+4737759,conference_league,2025-05-01 19:00:00,8603,8535,Real Betis,Fiorentina,True
+4737760,conference_league,2025-05-08 19:00:00,8535,8603,Fiorentina,Real Betis,True
+4737763,conference_league,2025-05-28 19:00:00,8603,8455,Real Betis,Chelsea,True
+4947971,conference_league,2025-10-02 16:45:00,8370,2234,Rayo Vallecano,KF Shkendija,True
+4948054,conference_league,2025-10-23 16:45:00,8428,8370,Häcken,Rayo Vallecano,True
+4947969,conference_league,2025-11-06 20:00:00,8370,2182,Rayo Vallecano,Lech Poznań,True
+4947948,conference_league,2025-11-27 17:45:00,6019,8370,Slovan Bratislava,Rayo Vallecano,True
+4948005,conference_league,2025-12-11 17:45:00,1957,8370,Jagiellonia Białystok,Rayo Vallecano,True
+4947970,conference_league,2025-12-18 20:00:00,8370,784771,Rayo Vallecano,Drita,True
+5206218,conference_league,2026-03-12 17:45:00,9750,8370,Samsunspor,Rayo Vallecano,True
+5206226,conference_league,2026-03-19 20:00:00,8370,9750,Rayo Vallecano,Samsunspor,True
+5206261,conference_league,2026-04-09 16:45:00,8370,8563,Rayo Vallecano,AEK Athens,True
+5206265,conference_league,2026-04-16 19:00:00,8563,8370,AEK Athens,Rayo Vallecano,True
+5206268,conference_league,2026-04-30 19:00:00,8370,9848,Rayo Vallecano,Strasbourg,True
+5206270,conference_league,2026-05-07 19:00:00,9848,8370,Strasbourg,Rayo Vallecano,True
+5206271,conference_league,2026-05-27 19:00:00,9826,8370,Crystal Palace,Rayo Vallecano,True
+2852992,copa_del_rey,2018-09-11 16:45:00,9864,9865,Málaga,Almería,True
+2852993,copa_del_rey,2018-09-11 16:45:00,8661,8670,Mallorca,Real Oviedo,True
+2852990,copa_del_rey,2018-09-12 18:00:00,8371,96927,Osasuna,Reus,True
+2852997,copa_del_rey,2018-09-12 20:00:00,9867,8385,Tenerife,Cádiz,True
+2852991,copa_del_rey,2018-09-13 20:00:00,10268,7878,Elche,Granada,True
+2852989,copa_del_rey,2018-09-13 20:00:00,8306,189674,Las Palmas,Rayo Majadahonda,True
+2889553,copa_del_rey,2018-10-16 18:00:00,10268,7869,Elche,Córdoba,True
+2889557,copa_del_rey,2018-10-17 19:00:00,8394,8385,Real Zaragoza,Cádiz,True
+2889554,copa_del_rey,2018-10-18 19:00:00,9865,96927,Almería,Reus,True
+2910416,copa_del_rey,2018-10-30 18:30:00,209199,10267,Ebro,Valencia,True
+2910408,copa_del_rey,2018-10-30 18:30:00,8206,8581,Lugo,Levante,True
+2910412,copa_del_rey,2018-10-30 19:30:00,7854,8370,Leganés,Rayo Vallecano,True
+2910418,copa_del_rey,2018-10-30 20:30:00,8229,9906,Sant Andreu,Atlético Madrid,True
+2910420,copa_del_rey,2018-10-31 18:30:00,141789,8633,Melilla,Real Madrid,True
+2910410,copa_del_rey,2018-10-31 19:30:00,7869,8305,Córdoba,Getafe,True
+2910432,copa_del_rey,2018-10-31 19:30:00,9866,7732,Deportivo Alavés,Girona,True
+2910428,copa_del_rey,2018-10-31 19:30:00,8661,10281,Mallorca,Real Valladolid,True
+2910414,copa_del_rey,2018-10-31 20:30:00,1753,8634,Cultural Leonesa,Barcelona,True
+2910406,copa_del_rey,2018-11-01 11:00:00,9869,8372,Sporting Gijón,Eibar,True
+2910434,copa_del_rey,2018-11-01 15:15:00,9910,8560,Celta Vigo,Real Sociedad,True
+2910422,copa_del_rey,2018-11-01 15:15:00,8216,8302,Villanovense,Sevilla,True
+2910426,copa_del_rey,2018-11-01 17:30:00,9865,10205,Almería,Villarreal,True
+2910404,copa_del_rey,2018-11-01 17:30:00,8385,8558,Cádiz,Espanyol,True
+2910424,copa_del_rey,2018-11-01 19:45:00,8696,8603,Racing Santander,Real Betis,True
+2910430,copa_del_rey,2018-11-28 19:45:00,8315,96925,Athletic Club,SD Huesca,True
+2910411,copa_del_rey,2018-12-04 18:30:00,8305,7869,Getafe,Córdoba,True
+2910417,copa_del_rey,2018-12-04 18:30:00,10267,209199,Valencia,Ebro,True
+2910413,copa_del_rey,2018-12-04 19:30:00,8370,7854,Rayo Vallecano,Leganés,True
+2910405,copa_del_rey,2018-12-04 20:30:00,8558,8385,Espanyol,Cádiz,True
+2910419,copa_del_rey,2018-12-05 18:30:00,9906,8229,Atlético Madrid,Sant Andreu,True
+2910433,copa_del_rey,2018-12-05 18:30:00,7732,9866,Girona,Deportivo Alavés,True
+2910435,copa_del_rey,2018-12-05 19:30:00,8560,9910,Real Sociedad,Celta Vigo,True
+2910423,copa_del_rey,2018-12-05 19:30:00,8302,8216,Sevilla,Villanovense,True
+2910427,copa_del_rey,2018-12-05 19:30:00,10205,9865,Villarreal,Almería,True
+2910415,copa_del_rey,2018-12-05 20:30:00,8634,1753,Barcelona,Cultural Leonesa,True
+2910429,copa_del_rey,2018-12-05 20:30:00,10281,8661,Real Valladolid,Mallorca,True
+2910409,copa_del_rey,2018-12-06 11:00:00,8581,8206,Levante,Lugo,True
+2910421,copa_del_rey,2018-12-06 15:15:00,8633,141789,Real Madrid,Melilla,True
+2910407,copa_del_rey,2018-12-06 17:30:00,8372,9869,Eibar,Sporting Gijón,True
+2910431,copa_del_rey,2018-12-06 17:30:00,96925,8315,SD Huesca,Athletic Club,True
+2910425,copa_del_rey,2018-12-06 19:45:00,8603,8696,Real Betis,Racing Santander,True
+2946352,copa_del_rey,2019-01-08 20:30:00,9869,10267,Sporting Gijón,Valencia,True
+2946354,copa_del_rey,2019-01-09 18:30:00,7732,9906,Girona,Atlético Madrid,True
+2946344,copa_del_rey,2019-01-09 19:30:00,8305,10281,Getafe,Real Valladolid,True
+2946356,copa_del_rey,2019-01-09 19:30:00,10205,8558,Villarreal,Espanyol,True
+2946342,copa_del_rey,2019-01-09 20:30:00,8633,7854,Real Madrid,Leganés,True
+2946350,copa_del_rey,2019-01-10 18:30:00,8315,8302,Athletic Club,Sevilla,True
+2946346,copa_del_rey,2019-01-10 19:30:00,8603,8560,Real Betis,Real Sociedad,True
+2946348,copa_del_rey,2019-01-10 20:30:00,8581,8634,Levante,Barcelona,True
+2946345,copa_del_rey,2019-01-15 18:30:00,10281,8305,Real Valladolid,Getafe,True
+2946353,copa_del_rey,2019-01-15 20:30:00,10267,9869,Valencia,Sporting Gijón,True
+2946355,copa_del_rey,2019-01-16 18:30:00,9906,7732,Atlético Madrid,Girona,True
+2946351,copa_del_rey,2019-01-16 19:30:00,8302,8315,Sevilla,Athletic Club,True
+2946343,copa_del_rey,2019-01-16 20:30:00,7854,8633,Leganés,Real Madrid,True
+2946347,copa_del_rey,2019-01-17 18:30:00,8560,8603,Real Sociedad,Real Betis,True
+2946357,copa_del_rey,2019-01-17 19:30:00,8558,10205,Espanyol,Villarreal,True
+2946349,copa_del_rey,2019-01-17 20:30:00,8634,8581,Barcelona,Levante,True
+2972057,copa_del_rey,2019-01-22 20:30:00,8305,10267,Getafe,Valencia,True
+2972058,copa_del_rey,2019-01-23 20:30:00,8302,8634,Sevilla,Barcelona,True
+2972059,copa_del_rey,2019-01-24 18:30:00,8558,8603,Espanyol,Real Betis,True
+2972056,copa_del_rey,2019-01-24 20:30:00,8633,7732,Real Madrid,Girona,True
+2972061,copa_del_rey,2019-01-29 20:30:00,10267,8305,Valencia,Getafe,True
+2972063,copa_del_rey,2019-01-30 18:30:00,8603,8558,Real Betis,Espanyol,True
+2972062,copa_del_rey,2019-01-30 20:35:00,8634,8302,Barcelona,Sevilla,True
+2972060,copa_del_rey,2019-01-31 20:30:00,7732,8633,Girona,Real Madrid,True
+2982552,copa_del_rey,2019-02-06 20:00:00,8634,8633,Barcelona,Real Madrid,True
+2982550,copa_del_rey,2019-02-07 20:00:00,8603,10267,Real Betis,Valencia,True
+2982553,copa_del_rey,2019-02-27 20:00:00,8633,8634,Real Madrid,Barcelona,True
+2982551,copa_del_rey,2019-02-28 20:00:00,10267,8603,Valencia,Real Betis,True
+2982555,copa_del_rey,2019-05-25 19:00:00,8634,10267,Barcelona,Valencia,True
+3221748,copa_del_rey,2019-12-17 14:30:00,189588,8385,CD Lealtad,Cádiz,True
+3221751,copa_del_rey,2019-12-17 18:00:00,7825,7878,CE L'Hospitalet,Granada,True
+3221742,copa_del_rey,2019-12-17 18:00:00,7799,9866,Real Jaén,Deportivo Alavés,True
+3221747,copa_del_rey,2019-12-17 18:00:00,210847,8372,SD Logroñés,Eibar,True
+3221737,copa_del_rey,2019-12-17 19:00:00,10279,8306,Castellón,Las Palmas,True
+3221750,copa_del_rey,2019-12-17 19:15:00,209196,8370,SD Tarazona,Rayo Vallecano,True
+3221734,copa_del_rey,2019-12-17 19:30:00,2244,10268,Gimnástica Segoviana,Elche,True
+3221724,copa_del_rey,2019-12-17 20:00:00,1112101,8315,CF Intercity,Athletic Club,True
+3221733,copa_del_rey,2019-12-17 20:00:00,494050,7854,FC Andorra,Leganés,True
+3221760,copa_del_rey,2019-12-18 17:00:00,2241,8670,Badalona,Real Oviedo,True
+3221736,copa_del_rey,2019-12-18 17:00:00,189567,8302,Bergantiños CF,Sevilla,True
+3221732,copa_del_rey,2019-12-18 17:00:00,1112100,8661,CD El Alamo,Mallorca,True
+3221729,copa_del_rey,2019-12-18 17:00:00,1112091,10205,Comillas CF,Villarreal,True
+3221727,copa_del_rey,2019-12-18 17:00:00,357248,8305,EG El Palmar CF,Getafe,True
+3221731,copa_del_rey,2019-12-18 17:00:00,765336,10281,Tolosa CF,Real Valladolid,True
+3221730,copa_del_rey,2019-12-19 18:00:00,277430,8603,CA Antoniano,Real Betis,True
+3221759,copa_del_rey,2019-12-19 18:00:00,280654,8558,Lleida Esportiu,Espanyol,True
+3221725,copa_del_rey,2019-12-19 18:00:00,1112092,8581,Melilla CD,Levante,True
+3221726,copa_del_rey,2019-12-19 18:00:00,190070,9910,Peña Azagresa,Celta Vigo,True
+3221746,copa_del_rey,2019-12-19 19:30:00,189609,96925,CD Laredo,SD Huesca,True
+3221758,copa_del_rey,2019-12-19 19:30:00,1112114,9865,UD Tamaraceite,Almería,True
+3221728,copa_del_rey,2019-12-19 20:00:00,477377,8560,CD Becerril,Real Sociedad,True
+3221741,copa_del_rey,2019-12-19 20:00:00,357261,7732,Linares Deportivo,Girona,True
+3221739,copa_del_rey,2019-12-19 20:00:00,656544,8371,Lorca Deportiva,Osasuna,True
+3239226,copa_del_rey,2020-01-11 11:00:00,96922,8371,Club Haro Deportivo,Osasuna,True
+3239219,copa_del_rey,2020-01-11 11:00:00,4031,8661,Zamora,Mallorca,True
+3239217,copa_del_rey,2020-01-11 15:00:00,4701,8603,Portugalete,Real Betis,True
+3239214,copa_del_rey,2020-01-11 15:00:00,8392,7854,Real Murcia,Leganés,True
+3239232,copa_del_rey,2020-01-11 16:30:00,189781,10268,Yeclano,Elche,True
+3239227,copa_del_rey,2020-01-11 17:00:00,7873,8306,CD Badajoz,Las Palmas,True
+3239224,copa_del_rey,2020-01-11 18:00:00,2241,8305,Badalona,Getafe,True
+3239239,copa_del_rey,2020-01-11 18:00:00,8554,7732,Cartagena,Girona,True
+3239230,copa_del_rey,2020-01-11 18:00:00,1753,96925,Cultural Leonesa,SD Huesca,True
+3239212,copa_del_rey,2020-01-11 18:00:00,8228,8315,Sestao,Athletic Club,True
+3239238,copa_del_rey,2020-01-11 19:00:00,7880,8385,Logroñés,Cádiz,True
+3239221,copa_del_rey,2020-01-11 20:00:00,161781,10281,Marbella FC,Real Valladolid,True
+3239225,copa_del_rey,2020-01-11 20:00:00,8213,10205,Orihuela,Villarreal,True
+3239220,copa_del_rey,2020-01-11 20:00:00,1112114,7878,UD Tamaraceite,Granada,True
+3239216,copa_del_rey,2020-01-12 11:00:00,7809,8372,Cacereño,Eibar,True
+3239223,copa_del_rey,2020-01-12 11:00:00,2428,8558,San Sebastian de los Reyes,Espanyol,True
+3239215,copa_del_rey,2020-01-12 11:00:00,189605,8302,UM Escobedo,Sevilla,True
+3239218,copa_del_rey,2020-01-12 15:00:00,357259,8560,AD Ceuta FC,Real Sociedad,True
+3239222,copa_del_rey,2020-01-12 15:00:00,8317,9910,Mérida,Celta Vigo,True
+3239213,copa_del_rey,2020-01-12 15:00:00,7799,8581,Real Jaén,Levante,True
+3239228,copa_del_rey,2020-01-12 16:00:00,7734,8370,Barakaldo,Rayo Vallecano,True
+3256452,copa_del_rey,2020-01-21 18:00:00,8394,8661,Real Zaragoza,Mallorca,True
+3256456,copa_del_rey,2020-01-21 18:00:00,8479,8371,Recreativo Huelva,Osasuna,True
+3256448,copa_del_rey,2020-01-21 20:00:00,8302,8581,Sevilla,Levante,True
+3256449,copa_del_rey,2020-01-22 18:00:00,10268,8315,Elche,Athletic Club,True
+3256461,copa_del_rey,2020-01-22 18:00:00,1123073,8634,UD Ibiza,Barcelona,True
+3256457,copa_del_rey,2020-01-22 20:00:00,2241,7878,Badalona,Granada,True
+3256451,copa_del_rey,2020-01-22 20:00:00,7732,10205,Girona,Villarreal,True
+3256462,copa_del_rey,2020-01-22 20:00:00,7880,10267,Logroñés,Valencia,True
+3256447,copa_del_rey,2020-01-22 20:00:00,8560,8558,Real Sociedad,Espanyol,True
+3256454,copa_del_rey,2020-01-22 20:00:00,9867,10281,Tenerife,Real Valladolid,True
+3256460,copa_del_rey,2020-01-22 20:00:00,780591,8633,Unionistas de Salamanca,Real Madrid,True
+3256450,copa_del_rey,2020-01-23 18:00:00,4032,9910,CD Mirandés,Celta Vigo,True
+3256458,copa_del_rey,2020-01-23 18:00:00,209199,7854,Ebro,Leganés,True
+3256455,copa_del_rey,2020-01-23 20:00:00,7873,8372,CD Badajoz,Eibar,True
+3256459,copa_del_rey,2020-01-23 20:00:00,1753,9906,Cultural Leonesa,Atlético Madrid,True
+3256453,copa_del_rey,2020-01-23 20:00:00,8370,8603,Rayo Vallecano,Real Betis,True
+3265855,copa_del_rey,2020-01-28 20:00:00,9867,8315,Tenerife,Athletic Club,True
+3265854,copa_del_rey,2020-01-29 18:00:00,1753,10267,Cultural Leonesa,Valencia,True
+3265858,copa_del_rey,2020-01-29 18:00:00,8370,10205,Rayo Vallecano,Villarreal,True
+3265853,copa_del_rey,2020-01-29 20:00:00,7873,7878,CD Badajoz,Granada,True
+3265860,copa_del_rey,2020-01-29 20:00:00,8560,8371,Real Sociedad,Osasuna,True
+3265856,copa_del_rey,2020-01-29 20:00:00,8394,8633,Real Zaragoza,Real Madrid,True
+3265859,copa_del_rey,2020-01-30 18:00:00,8634,7854,Barcelona,Leganés,True
+3265857,copa_del_rey,2020-01-30 20:00:00,4032,8302,CD Mirandés,Sevilla,True
+3269614,copa_del_rey,2020-02-04 20:00:00,7878,10267,Granada,Valencia,True
+3269615,copa_del_rey,2020-02-05 20:00:00,4032,10205,CD Mirandés,Villarreal,True
+3269612,copa_del_rey,2020-02-06 18:00:00,8633,8560,Real Madrid,Real Sociedad,True
+3269613,copa_del_rey,2020-02-06 20:00:00,8315,8634,Athletic Club,Barcelona,True
+3272897,copa_del_rey,2020-02-12 20:00:00,8315,7878,Athletic Club,Granada,True
+3272895,copa_del_rey,2020-02-13 20:00:00,8560,4032,Real Sociedad,CD Mirandés,True
+3272896,copa_del_rey,2020-03-04 20:00:00,4032,8560,CD Mirandés,Real Sociedad,True
+3272898,copa_del_rey,2020-03-05 20:00:00,7878,8315,Granada,Athletic Club,True
+3272943,copa_del_rey,2021-04-03 19:30:00,8315,8560,Athletic Club,Real Sociedad,True
+3483784,copa_del_rey,2020-12-15 18:00:00,659275,10281,CD Cantolagua,Real Valladolid,True
+3483782,copa_del_rey,2020-12-15 18:00:00,190113,96925,Marchamalo,SD Huesca,True
+3483783,copa_del_rey,2020-12-15 18:00:00,1207126,8371,Tomares,Osasuna,True
+3483820,copa_del_rey,2020-12-15 19:00:00,627898,8302,Ciudad Lucena,Sevilla,True
+3483801,copa_del_rey,2020-12-15 19:00:00,7859,7854,Ourense,Leganés,True
+3483822,copa_del_rey,2020-12-15 19:30:00,189807,8670,CD Coria,Real Oviedo,True
+3483795,copa_del_rey,2020-12-16 17:00:00,7825,9865,CE L'Hospitalet,Almería,True
+3483777,copa_del_rey,2020-12-16 18:00:00,1207119,9906,CE Cardassar,Atlético Madrid,True
+3483809,copa_del_rey,2020-12-16 18:00:00,189641,8558,CF Badalona Futur,Espanyol,True
+3483781,copa_del_rey,2020-12-16 18:00:00,1207124,8581,Racing Murcia,Levante,True
+3483817,copa_del_rey,2020-12-16 18:00:00,7822,10267,Terrassa,Valencia,True
+3483789,copa_del_rey,2020-12-16 18:30:00,161741,8661,Guijuelo,Mallorca,True
+3483780,copa_del_rey,2020-12-16 20:00:00,628014,10268,Bunol,Elche,True
+3483775,copa_del_rey,2020-12-16 20:00:00,600990,9866,CD Rincon,Deportivo Alavés,True
+3483829,copa_del_rey,2020-12-16 20:00:00,189633,10205,SD Leioa,Villarreal,True
+3483778,copa_del_rey,2020-12-17 18:00:00,357266,8305,Anaitasuna FT,Getafe,True
+3483824,copa_del_rey,2020-12-17 18:00:00,190091,8370,CD Teruel,Rayo Vallecano,True
+3483804,copa_del_rey,2020-12-17 18:00:00,2244,7732,Gimnástica Segoviana,Girona,True
+3483776,copa_del_rey,2020-12-17 18:00:00,562880,8385,Ribadumia CF,Cádiz,True
+3483808,copa_del_rey,2020-12-17 18:00:00,190058,7878,San Juan,Granada,True
+3483827,copa_del_rey,2020-12-17 18:30:00,189783,8603,UCAM Murcia,Real Betis,True
+3483813,copa_del_rey,2020-12-17 19:00:00,210848,8306,CD Varea,Las Palmas,True
+3483779,copa_del_rey,2020-12-17 20:00:00,1207125,8372,Racing Rioja,Eibar,True
+3483796,copa_del_rey,2020-12-17 20:00:00,770923,9910,UD Llanera,Celta Vigo,True
+3498939,copa_del_rey,2021-01-05 16:00:00,7869,8305,Córdoba,Getafe,True
+3498934,copa_del_rey,2021-01-05 16:00:00,1123073,9910,UD Ibiza,Celta Vigo,True
+3498937,copa_del_rey,2021-01-05 18:00:00,357261,8302,Linares Deportivo,Sevilla,True
+3501164,copa_del_rey,2021-01-05 18:00:00,4031,10205,Zamora,Villarreal,True
+3498933,copa_del_rey,2021-01-05 20:15:00,161781,10281,Marbella FC,Real Valladolid,True
+3498943,copa_del_rey,2021-01-06 11:00:00,189669,10268,La Nucía,Elche,True
+3498949,copa_del_rey,2021-01-06 11:00:00,8388,9865,Numancia,Almería,True
+3498938,copa_del_rey,2021-01-06 11:00:00,4701,8581,Portugalete,Levante,True
+3498944,copa_del_rey,2021-01-06 12:00:00,190123,7854,Socuellamos,Leganés,True
+3501163,copa_del_rey,2021-01-06 16:00:00,96922,8370,Club Haro Deportivo,Rayo Vallecano,True
+3498936,copa_del_rey,2021-01-06 16:00:00,1753,7878,Cultural Leonesa,Granada,True
+3498948,copa_del_rey,2021-01-06 16:00:00,161758,8306,Navalcarnero,Las Palmas,True
+3498931,copa_del_rey,2021-01-06 16:00:00,190057,8603,UD Mutilvera,Real Betis,True
+3498941,copa_del_rey,2021-01-06 17:00:00,189640,9906,UE Cornellà,Atlético Madrid,True
+3498947,copa_del_rey,2021-01-06 18:00:00,7876,8558,Burgos CF,Espanyol,True
+3498940,copa_del_rey,2021-01-06 18:00:00,9783,9866,Deportivo A Coruña,Deportivo Alavés,True
+3505052,copa_del_rey,2021-01-06 18:00:00,277406,8371,UE Olot,Osasuna,True
+3498952,copa_del_rey,2021-01-06 20:00:00,8555,8661,Fuenlabrada,Mallorca,True
+3498953,copa_del_rey,2021-01-06 20:00:00,9864,8670,Málaga,Real Oviedo,True
+3498954,copa_del_rey,2021-01-07 18:00:00,7732,8206,Girona,Lugo,True
+3498942,copa_del_rey,2021-01-07 18:00:00,7862,8385,Pontevedra,Cádiz,True
+3498935,copa_del_rey,2021-01-07 18:00:00,189781,10267,Yeclano,Valencia,True
+3498932,copa_del_rey,2021-01-07 20:00:00,4697,96925,Alcoyano,SD Huesca,True
+3498930,copa_del_rey,2021-01-07 20:00:00,210153,8372,Las Rozas CF,Eibar,True
+3509082,copa_del_rey,2021-01-16 11:00:00,9865,9866,Almería,Deportivo Alavés,True
+3509075,copa_del_rey,2021-01-16 11:00:00,8210,10281,Peña Dep. Santa Eulalia,Real Valladolid,True
+3509078,copa_del_rey,2021-01-16 15:00:00,7732,8385,Girona,Cádiz,True
+3509081,copa_del_rey,2021-01-16 17:00:00,8555,8581,Fuenlabrada,Levante,True
+3509083,copa_del_rey,2021-01-16 19:00:00,7854,8302,Leganés,Sevilla,True
+3509085,copa_del_rey,2021-01-16 21:00:00,8370,10268,Rayo Vallecano,Elche,True
+3509080,copa_del_rey,2021-01-17 11:00:00,8558,8371,Espanyol,Osasuna,True
+3509077,copa_del_rey,2021-01-17 11:00:00,9864,7878,Málaga,Granada,True
+3509076,copa_del_rey,2021-01-17 15:00:00,161758,8372,Navalcarnero,Eibar,True
+3509079,copa_del_rey,2021-01-17 15:00:00,9869,8603,Sporting Gijón,Real Betis,True
+3509084,copa_del_rey,2021-01-17 17:00:00,161750,10267,Alcorcón,Valencia,True
+3509086,copa_del_rey,2021-01-17 17:00:00,9867,10205,Tenerife,Villarreal,True
+3509074,copa_del_rey,2021-01-20 18:00:00,7869,8560,Córdoba,Real Sociedad,True
+3509073,copa_del_rey,2021-01-20 20:00:00,4697,8633,Alcoyano,Real Madrid,True
+3509072,copa_del_rey,2021-01-21 18:00:00,1123073,8315,UD Ibiza,Athletic Club,True
+3509071,copa_del_rey,2021-01-21 20:00:00,189640,8634,UE Cornellà,Barcelona,True
+3521828,copa_del_rey,2021-01-26 18:00:00,10281,8581,Real Valladolid,Levante,True
+3521830,copa_del_rey,2021-01-26 20:00:00,7732,10205,Girona,Villarreal,True
+3521829,copa_del_rey,2021-01-26 20:00:00,8603,8560,Real Betis,Real Sociedad,True
+3521831,copa_del_rey,2021-01-27 18:00:00,8302,10267,Sevilla,Valencia,True
+3521832,copa_del_rey,2021-01-27 20:00:00,9865,8371,Almería,Osasuna,True
+3521833,copa_del_rey,2021-01-27 20:00:00,8370,8634,Rayo Vallecano,Barcelona,True
+3521834,copa_del_rey,2021-01-28 18:00:00,161758,7878,Navalcarnero,Granada,True
+3521835,copa_del_rey,2021-01-28 20:00:00,4697,8315,Alcoyano,Athletic Club,True
+3524202,copa_del_rey,2021-02-02 20:00:00,9865,8302,Almería,Sevilla,True
+3524201,copa_del_rey,2021-02-03 18:00:00,8581,10205,Levante,Villarreal,True
+3524199,copa_del_rey,2021-02-03 20:00:00,7878,8634,Granada,Barcelona,True
+3524200,copa_del_rey,2021-02-04 20:00:00,8603,8315,Real Betis,Athletic Club,True
+3529059,copa_del_rey,2021-02-10 20:00:00,8302,8634,Sevilla,Barcelona,True
+3529060,copa_del_rey,2021-02-11 20:00:00,8315,8581,Athletic Club,Levante,True
+3529061,copa_del_rey,2021-03-03 20:00:00,8634,8302,Barcelona,Sevilla,True
+3529062,copa_del_rey,2021-03-04 20:00:00,8581,8315,Levante,Athletic Club,True
+3529063,copa_del_rey,2021-04-17 19:30:00,8315,8634,Athletic Club,Barcelona,True
+3771005,copa_del_rey,2021-11-30 15:00:00,189615,96925,CD Cayón,SD Huesca,True
+3771015,copa_del_rey,2021-11-30 15:00:00,190113,10281,Marchamalo,Real Valladolid,True
+3770963,copa_del_rey,2021-11-30 18:00:00,189770,7878,Laguna,Granada,True
+3770958,copa_del_rey,2021-11-30 18:00:00,351554,9866,Unami CP,Deportivo Alavés,True
+3770991,copa_del_rey,2021-11-30 18:00:00,1314970,10205,Victoria CF,Villarreal,True
+3770956,copa_del_rey,2021-11-30 20:00:00,278806,9865,CDA Águilas FC,Almería,True
+3770961,copa_del_rey,2021-11-30 20:00:00,1314969,8305,CFJ Mollerussa,Getafe,True
+3771010,copa_del_rey,2021-11-30 20:00:00,209199,9910,Ebro,Celta Vigo,True
+3771034,copa_del_rey,2021-12-01 18:00:00,7869,8302,Córdoba,Sevilla,True
+3771016,copa_del_rey,2021-12-01 18:00:00,2244,8661,Gimnástica Segoviana,Mallorca,True
+3770959,copa_del_rey,2021-12-01 18:00:00,189620,8558,SD Solares,Espanyol,True
+3771025,copa_del_rey,2021-12-01 19:00:00,351558,8670,CE Andratx,Real Oviedo,True
+3770962,copa_del_rey,2021-12-01 20:00:00,2427,8603,Alicante,Real Betis,True
+3771028,copa_del_rey,2021-12-01 20:00:00,782125,8560,Panaderia Pulido,Real Sociedad,True
+3771009,copa_del_rey,2021-12-02 15:00:00,189700,8306,Velez CF,Las Palmas,True
+3770990,copa_del_rey,2021-12-02 18:00:00,1314976,8371,CF San Agustin,Osasuna,True
+3771032,copa_del_rey,2021-12-02 18:00:00,161741,8370,Guijuelo,Rayo Vallecano,True
+3770989,copa_del_rey,2021-12-02 18:00:00,1314967,8581,Huracan Melilla,Levante,True
+3771003,copa_del_rey,2021-12-02 18:00:00,189629,8372,SD Gernika,Eibar,True
+3770992,copa_del_rey,2021-12-02 18:30:00,1314972,10267,CD Utrillas,Valencia,True
+3771019,copa_del_rey,2021-12-02 19:00:00,1315045,7732,CS Puertollano,Girona,True
+3771022,copa_del_rey,2021-12-02 19:00:00,189633,10268,SD Leioa,Elche,True
+3771014,copa_del_rey,2021-12-02 19:45:00,1315047,7854,Xerez Deportivo,Leganés,True
+3770960,copa_del_rey,2021-12-02 20:00:00,1314971,8385,CD Villa de Fortuna,Cádiz,True
+3776751,copa_del_rey,2021-12-14 18:00:00,494050,9910,FC Andorra,Celta Vigo,True
+3776756,copa_del_rey,2021-12-14 19:00:00,96925,7732,SD Huesca,Girona,True
+3776747,copa_del_rey,2021-12-14 20:00:00,4697,8581,Alcoyano,Levante,True
+3776738,copa_del_rey,2021-12-14 20:00:00,210158,8558,CD Palencia Cristo Atletico,Espanyol,True
+3776750,copa_del_rey,2021-12-14 20:00:00,357261,9866,Linares Deportivo,Deportivo Alavés,True
+3776737,copa_del_rey,2021-12-15 18:00:00,189567,8370,Bergantiños CF,Rayo Vallecano,True
+3776740,copa_del_rey,2021-12-15 18:00:00,351558,8302,CE Andratx,Sevilla,True
+3776744,copa_del_rey,2021-12-15 18:00:00,4031,8560,Zamora,Real Sociedad,True
+3776754,copa_del_rey,2021-12-15 18:30:00,1753,7854,Cultural Leonesa,Leganés,True
+3776762,copa_del_rey,2021-12-15 19:00:00,10281,8306,Real Valladolid,Las Palmas,True
+3776748,copa_del_rey,2021-12-15 20:00:00,189730,10205,Atletico Sanluqueño CF,Villarreal,True
+3776761,copa_del_rey,2021-12-15 20:00:00,9867,8372,Tenerife,Eibar,True
+3776745,copa_del_rey,2021-12-15 20:00:00,780591,10268,Unionistas de Salamanca,Elche,True
+3776741,copa_del_rey,2021-12-16 18:00:00,1314965,10267,CD Arenteiro,Valencia,True
+3776749,copa_del_rey,2021-12-16 18:00:00,357239,8603,CF Talavera de la Reina,Real Betis,True
+3776757,copa_del_rey,2021-12-16 18:00:00,189624,9865,SD Amorebieta,Almería,True
+3776739,copa_del_rey,2021-12-16 18:00:00,770923,8661,UD Llanera,Mallorca,True
+3776742,copa_del_rey,2021-12-16 20:00:00,8393,8385,Albacete,Cádiz,True
+3776743,copa_del_rey,2021-12-16 20:00:00,141784,8305,Atlético Baleares,Getafe,True
+3776736,copa_del_rey,2021-12-16 20:00:00,189703,7878,Atletico Mancha Real,Granada,True
+3776746,copa_del_rey,2021-12-16 20:00:00,9783,8371,Deportivo A Coruña,Osasuna,True
+3784690,copa_del_rey,2022-01-04 20:00:00,8005,8558,Ponferradina,Espanyol,True
+3784683,copa_del_rey,2022-01-05 15:00:00,8554,10267,Cartagena,Valencia,True
+3784685,copa_del_rey,2022-01-05 15:00:00,8372,8661,Eibar,Mallorca,True
+3784687,copa_del_rey,2022-01-05 15:00:00,7854,8560,Leganés,Real Sociedad,True
+3784678,copa_del_rey,2022-01-05 18:30:00,357261,8634,Linares Deportivo,Barcelona,True
+3784679,copa_del_rey,2022-01-05 19:00:00,141784,9910,Atlético Baleares,Celta Vigo,True
+3784682,copa_del_rey,2022-01-05 19:00:00,4032,8370,CD Mirandés,Rayo Vallecano,True
+3784680,copa_del_rey,2022-01-05 19:00:00,10281,8603,Real Valladolid,Real Betis,True
+3784677,copa_del_rey,2022-01-05 20:30:00,4697,8633,Alcoyano,Real Madrid,True
+3784686,copa_del_rey,2022-01-06 15:00:00,8555,8385,Fuenlabrada,Cádiz,True
+3784688,copa_del_rey,2022-01-06 15:00:00,7732,8371,Girona,Osasuna,True
+3784689,copa_del_rey,2022-01-06 17:00:00,8394,8302,Real Zaragoza,Sevilla,True
+3784684,copa_del_rey,2022-01-06 17:00:00,9869,10205,Sporting Gijón,Villarreal,True
+3784681,copa_del_rey,2022-01-06 19:00:00,9865,10268,Almería,Elche,True
+3784675,copa_del_rey,2022-01-06 19:00:00,189703,8315,Atletico Mancha Real,Athletic Club,True
+3784676,copa_del_rey,2022-01-06 20:30:00,189674,9906,Rayo Majadahonda,Atlético Madrid,True
+3798386,copa_del_rey,2022-01-15 15:00:00,8661,8558,Mallorca,Espanyol,True
+3798380,copa_del_rey,2022-01-15 17:30:00,7732,8370,Girona,Rayo Vallecano,True
+3798381,copa_del_rey,2022-01-15 17:30:00,9869,8385,Sporting Gijón,Cádiz,True
+3798379,copa_del_rey,2022-01-16 11:00:00,141784,10267,Atlético Baleares,Valencia,True
+3798384,copa_del_rey,2022-01-16 15:00:00,8603,8302,Real Betis,Sevilla,True
+3798383,copa_del_rey,2022-01-19 20:00:00,8560,9906,Real Sociedad,Atlético Madrid,True
+3798382,copa_del_rey,2022-01-20 18:00:00,10268,8633,Elche,Real Madrid,True
+3798385,copa_del_rey,2022-01-20 20:30:00,8315,8634,Athletic Club,Barcelona,True
+3810918,copa_del_rey,2022-02-02 19:00:00,8370,8661,Rayo Vallecano,Mallorca,True
+3810917,copa_del_rey,2022-02-02 20:00:00,10267,8385,Valencia,Cádiz,True
+3810916,copa_del_rey,2022-02-03 19:00:00,8560,8603,Real Sociedad,Real Betis,True
+3810915,copa_del_rey,2022-02-03 20:30:00,8315,8633,Athletic Club,Real Madrid,True
+3821179,copa_del_rey,2022-02-09 20:00:00,8370,8603,Rayo Vallecano,Real Betis,True
+3821181,copa_del_rey,2022-02-10 20:30:00,8315,10267,Athletic Club,Valencia,True
+3821182,copa_del_rey,2022-03-02 20:30:00,10267,8315,Valencia,Athletic Club,True
+3821180,copa_del_rey,2022-03-03 20:00:00,8603,8370,Real Betis,Rayo Vallecano,True
+3821183,copa_del_rey,2022-04-23 20:00:00,8603,10267,Real Betis,Valencia,True
+4056499,copa_del_rey,2022-11-12 15:00:00,1417717,8371,CD Fuentes,Osasuna,True
+4056500,copa_del_rey,2022-11-12 15:00:00,355077,10281,UD Barbadas,Real Valladolid,True
+4056502,copa_del_rey,2022-11-12 16:00:00,277406,8581,UE Olot,Levante,True
+4056507,copa_del_rey,2022-11-12 17:00:00,189629,7854,SD Gernika,Leganés,True
+4056514,copa_del_rey,2022-11-12 17:30:00,1417768,8661,CD Autol,Mallorca,True
+4056513,copa_del_rey,2022-11-12 17:30:00,1417766,10268,CD L'Alcora,Elche,True
+4056519,copa_del_rey,2022-11-12 20:00:00,600990,8558,CD Rincon,Espanyol,True
+4056518,copa_del_rey,2022-11-12 20:00:00,209033,10205,Santa Amalia,Villarreal,True
+4056520,copa_del_rey,2022-11-12 21:00:00,189693,9906,SD Almazan,Atlético Madrid,True
+4056523,copa_del_rey,2022-11-13 11:00:00,190126,7732,CD Quintanar del Rey,Girona,True
+4056522,copa_del_rey,2022-11-13 11:00:00,1314969,8370,CFJ Mollerussa,Rayo Vallecano,True
+4056532,copa_del_rey,2022-11-13 11:00:00,371716,96925,Juventud Torremolinos CF,SD Huesca,True
+4056527,copa_del_rey,2022-11-13 11:00:00,210153,8372,Las Rozas CF,Eibar,True
+4056531,copa_del_rey,2022-11-13 11:00:00,8356,8670,RS Gimnástica,Real Oviedo,True
+4056540,copa_del_rey,2022-11-13 15:00:00,782134,9910,CD Algar,Celta Vigo,True
+4056539,copa_del_rey,2022-11-13 15:00:00,776967,8302,Velarde Camargo,Sevilla,True
+4056542,copa_del_rey,2022-11-13 15:30:00,190091,8306,CD Teruel,Las Palmas,True
+4056543,copa_del_rey,2022-11-13 16:00:00,189781,7878,Yeclano,Granada,True
+4056547,copa_del_rey,2022-11-13 17:00:00,280654,9866,Lleida Esportiu,Deportivo Alavés,True
+4056550,copa_del_rey,2022-11-13 17:30:00,177230,8305,CD San Roque de Lepe,Getafe,True
+4056549,copa_del_rey,2022-11-13 17:30:00,8380,8385,Real Unión,Cádiz,True
+4056551,copa_del_rey,2022-11-13 18:00:00,1417803,8560,CD Cazalegas,Real Sociedad,True
+4056552,copa_del_rey,2022-11-13 20:00:00,141788,8315,Alzira,Athletic Club,True
+4056553,copa_del_rey,2022-11-13 20:00:00,1314965,9865,CD Arenteiro,Almería,True
+4065197,copa_del_rey,2022-12-20 18:00:00,1394300,8305,CD Diocesano,Getafe,True
+4065189,copa_del_rey,2022-12-20 18:00:00,161782,10268,CD Guadalajara,Elche,True
+4065194,copa_del_rey,2022-12-20 20:00:00,161741,10205,Guijuelo,Villarreal,True
+4065186,copa_del_rey,2022-12-20 20:00:00,8380,8661,Real Unión,Mallorca,True
+4065192,copa_del_rey,2022-12-20 20:00:00,8228,8315,Sestao,Athletic Club,True
+4065196,copa_del_rey,2022-12-20 21:00:00,1394299,8558,CD Atlético Paso,Espanyol,True
+4065193,copa_del_rey,2022-12-21 18:00:00,209021,8370,Atletico Saguntino,Rayo Vallecano,True
+4065200,copa_del_rey,2022-12-21 18:00:00,1207140,8372,Ibiza Islas Pitiusas,Eibar,True
+4065213,copa_del_rey,2022-12-21 18:00:00,8581,494050,Levante,FC Andorra,True
+4065203,copa_del_rey,2022-12-21 18:00:00,8317,9866,Mérida,Deportivo Alavés,True
+4065188,copa_del_rey,2022-12-21 20:00:00,189631,10281,Arenas Getxo,Real Valladolid,True
+4065191,copa_del_rey,2022-12-21 20:00:00,190078,8371,Arnedo,Osasuna,True
+4065198,copa_del_rey,2022-12-21 20:00:00,189807,8560,CD Coria,Real Sociedad,True
+4065190,copa_del_rey,2022-12-21 20:00:00,371716,8302,Juventud Torremolinos CF,Sevilla,True
+4065199,copa_del_rey,2022-12-22 18:00:00,7809,7732,Cacereño,Girona,True
+4065195,copa_del_rey,2022-12-22 18:00:00,189629,9910,SD Gernika,Celta Vigo,True
+4065187,copa_del_rey,2022-12-22 20:00:00,1314965,9906,CD Arenteiro,Atlético Madrid,True
+4065211,copa_del_rey,2022-12-22 20:00:00,189669,8306,La Nucía,Las Palmas,True
+4065212,copa_del_rey,2022-12-22 20:00:00,8670,7878,Real Oviedo,Granada,True
+4087803,copa_del_rey,2023-01-03 18:00:00,8554,10205,Cartagena,Villarreal,True
+4087805,copa_del_rey,2023-01-03 18:00:00,8558,9910,Espanyol,Celta Vigo,True
+4087793,copa_del_rey,2023-01-03 18:00:00,189669,10267,La Nucía,Valencia,True
+4087799,copa_del_rey,2023-01-03 20:00:00,357259,10268,AD Ceuta FC,Elche,True
+4087791,copa_del_rey,2023-01-03 20:00:00,7809,8633,Cacereño,Real Madrid,True
+4087801,copa_del_rey,2023-01-03 20:00:00,8581,8305,Levante,Getafe,True
+4087804,copa_del_rey,2023-01-03 20:00:00,9869,8370,Sporting Gijón,Rayo Vallecano,True
+4087798,copa_del_rey,2023-01-04 18:00:00,357261,8302,Linares Deportivo,Sevilla,True
+4087794,copa_del_rey,2023-01-04 18:00:00,7880,8560,Logroñés,Real Sociedad,True
+4087796,copa_del_rey,2023-01-04 18:00:00,7862,8661,Pontevedra,Mallorca,True
+4087802,copa_del_rey,2023-01-04 19:00:00,8670,9906,Real Oviedo,Atlético Madrid,True
+4087792,copa_del_rey,2023-01-04 20:00:00,1112101,8634,CF Intercity,Barcelona,True
+4087800,copa_del_rey,2023-01-04 20:00:00,9866,10281,Deportivo Alavés,Real Valladolid,True
+4087797,copa_del_rey,2023-01-05 15:00:00,8400,8371,Gimnàstic,Osasuna,True
+4087790,copa_del_rey,2023-01-05 15:00:00,1207140,8603,Ibiza Islas Pitiusas,Real Betis,True
+4087795,copa_del_rey,2023-01-05 20:00:00,8288,8315,Eldense,Athletic Club,True
+4093915,copa_del_rey,2023-01-17 18:00:00,8560,8661,Real Sociedad,Mallorca,True
+4093912,copa_del_rey,2023-01-17 20:00:00,9866,8302,Deportivo Alavés,Sevilla,True
+4093911,copa_del_rey,2023-01-18 18:00:00,9869,10267,Sporting Gijón,Valencia,True
+4093916,copa_del_rey,2023-01-18 19:00:00,8315,8558,Athletic Club,Espanyol,True
+4093910,copa_del_rey,2023-01-18 20:00:00,8581,9906,Levante,Atlético Madrid,True
+4093913,copa_del_rey,2023-01-18 20:00:00,8603,8371,Real Betis,Osasuna,True
+4093909,copa_del_rey,2023-01-19 19:00:00,357259,8634,AD Ceuta FC,Barcelona,True
+4093914,copa_del_rey,2023-01-19 20:00:00,10205,8633,Villarreal,Real Madrid,True
+4107918,copa_del_rey,2023-01-25 20:00:00,8634,8560,Barcelona,Real Sociedad,True
+4107916,copa_del_rey,2023-01-25 21:00:00,8371,8302,Osasuna,Sevilla,True
+4107917,copa_del_rey,2023-01-26 19:00:00,10267,8315,Valencia,Athletic Club,True
+4107915,copa_del_rey,2023-01-26 20:00:00,8633,9906,Real Madrid,Atlético Madrid,True
+4113055,copa_del_rey,2023-03-01 20:00:00,8371,8315,Osasuna,Athletic Club,True
+4113056,copa_del_rey,2023-03-02 20:00:00,8633,8634,Real Madrid,Barcelona,True
+4113057,copa_del_rey,2023-04-04 19:10:00,8315,8371,Athletic Club,Osasuna,True
+4113058,copa_del_rey,2023-04-05 19:00:00,8634,8633,Barcelona,Real Madrid,True
+4113059,copa_del_rey,2023-05-06 20:00:00,8633,8371,Real Madrid,Osasuna,True
+4348628,copa_del_rey,2023-10-31 19:00:00,210848,8581,CD Varea,Levante,True
+4348635,copa_del_rey,2023-10-31 19:00:00,189764,8558,Mensajero,Espanyol,True
+4348626,copa_del_rey,2023-10-31 20:00:00,209025,8306,CD Manacor,Las Palmas,True
+4348617,copa_del_rey,2023-10-31 20:00:00,357239,9865,CF Talavera de la Reina,Almería,True
+4348629,copa_del_rey,2023-10-31 20:00:00,656544,8372,Lorca Deportiva,Eibar,True
+4348644,copa_del_rey,2023-11-01 11:00:00,1515443,7854,AD Llerenense,Leganés,True
+4348608,copa_del_rey,2023-11-01 11:00:00,351551,8370,Atletico de Lugones,Rayo Vallecano,True
+4348616,copa_del_rey,2023-11-01 11:00:00,177230,7732,CD San Roque de Lepe,Girona,True
+4348618,copa_del_rey,2023-11-01 11:00:00,189641,8385,CF Badalona Futur,Cádiz,True
+4348634,copa_del_rey,2023-11-01 11:00:00,8210,10281,Peña Dep. Santa Eulalia,Real Valladolid,True
+4348609,copa_del_rey,2023-11-01 14:30:00,1567042,8302,CD Quintanar,Sevilla,True
+4348610,copa_del_rey,2023-11-01 14:30:00,1567070,9910,Turegano CF,Celta Vigo,True
+4348641,copa_del_rey,2023-11-01 17:00:00,189639,10268,CE Europa,Elche,True
+4348612,copa_del_rey,2023-11-01 17:30:00,628014,8560,Bunol,Real Sociedad,True
+4348614,copa_del_rey,2023-11-01 17:30:00,474528,8661,CD Boiro,Mallorca,True
+4348607,copa_del_rey,2023-11-01 17:30:00,1567063,8305,CF Tardienta,Getafe,True
+4348647,copa_del_rey,2023-11-01 18:00:00,278806,96925,CDA Águilas FC,SD Huesca,True
+4348640,copa_del_rey,2023-11-01 19:00:00,1394294,8670,CE Manresa,Real Oviedo,True
+4348605,copa_del_rey,2023-11-01 19:30:00,280229,8603,CD Hernan Cortes,Real Betis,True
+4348613,copa_del_rey,2023-11-01 20:30:00,277407,8315,UE Rubi,Athletic Club,True
+4348625,copa_del_rey,2023-11-02 18:00:00,474525,7878,Arosa SC,Granada,True
+4348606,copa_del_rey,2023-11-02 18:00:00,1512750,10205,Chiclana,Villarreal,True
+4348619,copa_del_rey,2023-11-02 19:00:00,7880,10267,Logroñés,Valencia,True
+4348611,copa_del_rey,2023-11-02 20:00:00,1567056,9866,Deportivo Murcia FC,Deportivo Alavés,True
+4364370,copa_del_rey,2023-11-22 20:00:00,4031,10205,Zamora,Villarreal,True
+4364390,copa_del_rey,2023-12-05 18:00:00,1186565,8305,Atzeneta UE,Getafe,True
+4364380,copa_del_rey,2023-12-05 20:00:00,474525,10267,Arosa SC,Valencia,True
+4364377,copa_del_rey,2023-12-05 20:00:00,10279,8670,Castellón,Real Oviedo,True
+4364394,copa_del_rey,2023-12-05 20:00:00,8558,10281,Espanyol,Real Valladolid,True
+4364375,copa_del_rey,2023-12-06 11:00:00,161849,96925,Antequera,SD Huesca,True
+4364381,copa_del_rey,2023-12-06 11:00:00,8214,9865,Barbastro,Almería,True
+4364372,copa_del_rey,2023-12-06 11:00:00,189781,8370,Yeclano,Rayo Vallecano,True
+4364373,copa_del_rey,2023-12-06 15:00:00,351558,8560,CE Andratx,Real Sociedad,True
+4364371,copa_del_rey,2023-12-06 15:00:00,7822,9866,Terrassa,Deportivo Alavés,True
+4364397,copa_del_rey,2023-12-06 18:00:00,8581,189624,Levante,SD Amorebieta,True
+4364383,copa_del_rey,2023-12-06 18:00:00,96924,8661,Valle de Egüés,Mallorca,True
+4364391,copa_del_rey,2023-12-06 18:00:00,8216,8603,Villanovense,Real Betis,True
+4364379,copa_del_rey,2023-12-06 20:00:00,189696,8302,Atlético Astorga,Sevilla,True
+4364384,copa_del_rey,2023-12-06 20:00:00,190055,8306,Tudelano,Las Palmas,True
+4364392,copa_del_rey,2023-12-07 18:00:00,189685,8385,Arandina CF,Cádiz,True
+4364395,copa_del_rey,2023-12-07 19:00:00,357261,10268,Linares Deportivo,Elche,True
+4364389,copa_del_rey,2023-12-07 19:00:00,141789,8372,Melilla,Eibar,True
+4364393,copa_del_rey,2023-12-07 19:00:00,8474,7854,Racing de Ferrol,Leganés,True
+4364385,copa_del_rey,2023-12-07 20:00:00,189615,8315,CD Cayón,Athletic Club,True
+4364382,copa_del_rey,2023-12-07 20:00:00,8213,7732,Orihuela,Girona,True
+4364374,copa_del_rey,2023-12-07 20:00:00,8228,9910,Sestao,Celta Vigo,True
+4379052,copa_del_rey,2024-01-06 15:00:00,8206,9906,Lugo,Atlético Madrid,True
+4379058,copa_del_rey,2024-01-06 16:00:00,8558,8305,Espanyol,Getafe,True
+4379055,copa_del_rey,2024-01-06 17:00:00,10268,7732,Elche,Girona,True
+4379060,copa_del_rey,2024-01-06 18:00:00,96925,8370,SD Huesca,Rayo Vallecano,True
+4379064,copa_del_rey,2024-01-06 19:00:00,9866,8603,Deportivo Alavés,Real Betis,True
+4379050,copa_del_rey,2024-01-06 20:30:00,189685,8633,Arandina CF,Real Madrid,True
+4379056,copa_del_rey,2024-01-07 11:00:00,7876,8661,Burgos CF,Mallorca,True
+4379061,copa_del_rey,2024-01-07 11:00:00,189624,9910,SD Amorebieta,Celta Vigo,True
+4379051,copa_del_rey,2024-01-07 15:00:00,10279,8371,Castellón,Osasuna,True
+4379059,copa_del_rey,2024-01-07 15:00:00,8474,8302,Racing de Ferrol,Sevilla,True
+4379062,copa_del_rey,2024-01-07 18:00:00,8554,10267,Cartagena,Valencia,True
+4379063,copa_del_rey,2024-01-07 18:00:00,8372,8315,Eibar,Athletic Club,True
+4379049,copa_del_rey,2024-01-07 20:00:00,8214,8634,Barbastro,Barcelona,True
+4379053,copa_del_rey,2024-01-07 20:00:00,9864,8560,Málaga,Real Sociedad,True
+4379057,copa_del_rey,2024-01-07 21:00:00,9867,8306,Tenerife,Las Palmas,True
+4379054,copa_del_rey,2024-01-08 15:30:00,780591,10205,Unionistas de Salamanca,Villarreal,True
+4397768,copa_del_rey,2024-01-16 19:00:00,8305,8302,Getafe,Sevilla,True
+4397771,copa_del_rey,2024-01-16 20:00:00,8315,9866,Athletic Club,Deportivo Alavés,True
+4397767,copa_del_rey,2024-01-16 21:00:00,9867,8661,Tenerife,Mallorca,True
+4397770,copa_del_rey,2024-01-17 19:00:00,10267,9910,Valencia,Celta Vigo,True
+4397769,copa_del_rey,2024-01-17 20:00:00,8371,8560,Osasuna,Real Sociedad,True
+4397773,copa_del_rey,2024-01-17 20:30:00,7732,8370,Girona,Rayo Vallecano,True
+4397766,copa_del_rey,2024-01-18 18:30:00,780591,8634,Unionistas de Salamanca,Barcelona,True
+4397772,copa_del_rey,2024-01-18 20:30:00,9906,8633,Atlético Madrid,Real Madrid,True
+4405513,copa_del_rey,2024-01-23 20:30:00,9910,8560,Celta Vigo,Real Sociedad,True
+4405514,copa_del_rey,2024-01-24 18:30:00,8661,7732,Mallorca,Girona,True
+4405511,copa_del_rey,2024-01-24 20:30:00,8315,8634,Athletic Club,Barcelona,True
+4405512,copa_del_rey,2024-01-25 20:00:00,9906,8302,Atlético Madrid,Sevilla,True
+4413875,copa_del_rey,2024-02-06 20:00:00,8661,8560,Mallorca,Real Sociedad,True
+4413877,copa_del_rey,2024-02-07 20:30:00,9906,8315,Atlético Madrid,Athletic Club,True
+4413876,copa_del_rey,2024-02-27 20:30:00,8560,8661,Real Sociedad,Mallorca,True
+4413878,copa_del_rey,2024-02-29 20:30:00,8315,9906,Athletic Club,Atlético Madrid,True
+4413879,copa_del_rey,2024-04-06 20:00:00,8315,8661,Athletic Club,Mallorca,True
+4656448,copa_del_rey,2024-10-29 18:00:00,659252,8370,CD Villamuriel,Rayo Vallecano,True
+4656445,copa_del_rey,2024-10-29 18:00:00,7860,9866,Compostela,Deportivo Alavés,True
+4656455,copa_del_rey,2024-10-29 20:00:00,189604,10281,Astur CF,Real Valladolid,True
+4656446,copa_del_rey,2024-10-29 20:00:00,189750,10205,Poblense,Villarreal,True
+4656428,copa_del_rey,2024-10-29 20:00:00,7799,8385,Real Jaén,Cádiz,True
+4656442,copa_del_rey,2024-10-30 18:00:00,627898,7854,Ciudad Lucena,Leganés,True
+4656444,copa_del_rey,2024-10-30 18:00:00,210153,8302,Las Rozas CF,Sevilla,True
+4656432,copa_del_rey,2024-10-30 19:00:00,189641,96925,CF Badalona Futur,SD Huesca,True
+4656425,copa_del_rey,2024-10-30 19:00:00,190072,7878,Cortes,Granada,True
+4656457,copa_del_rey,2024-10-30 19:00:00,7880,8372,Logroñés,Eibar,True
+4656459,copa_del_rey,2024-10-30 19:30:00,189807,10268,CD Coria,Elche,True
+4656447,copa_del_rey,2024-10-30 20:00:00,1686598,7732,CD Extremadura,Girona,True
+4656436,copa_del_rey,2024-10-30 20:00:00,2428,9865,San Sebastian de los Reyes,Almería,True
+4656451,copa_del_rey,2024-10-30 20:00:00,277428,9910,UD San Pedro,Celta Vigo,True
+4656453,copa_del_rey,2024-10-31 18:00:00,1686593,8558,San Tirso SD,Espanyol,True
+4656441,copa_del_rey,2024-10-31 18:00:00,277405,9906,UE Vic,Atlético Madrid,True
+4656438,copa_del_rey,2024-10-31 19:00:00,189689,8670,Real Ávila,Real Oviedo,True
+4656456,copa_del_rey,2024-10-31 20:00:00,1686597,8603,CD Gévora,Real Betis,True
+4656449,copa_del_rey,2024-10-31 20:00:00,1686595,8306,Ontiñena CF,Las Palmas,True
+4656452,copa_del_rey,2024-11-05 18:00:00,1512750,8371,Chiclana,Osasuna,True
+4656458,copa_del_rey,2024-11-19 19:00:00,7862,8581,Pontevedra,Levante,True
+4656443,copa_del_rey,2024-11-21 20:00:00,189662,8560,Jove Español,Real Sociedad,True
+4656450,copa_del_rey,2024-11-26 18:00:00,1686594,10267,CP Parla Escuela,Valencia,True
+4656454,copa_del_rey,2024-11-26 18:00:00,1686596,8305,Manises CF,Getafe,True
+4682091,copa_del_rey,2024-12-03 18:00:00,189689,10281,Real Ávila,Real Valladolid,True
+4682077,copa_del_rey,2024-12-03 19:00:00,189781,10268,Yeclano,Elche,True
+4682062,copa_del_rey,2024-12-03 20:00:00,8214,8558,Barbastro,Espanyol,True
+4682073,copa_del_rey,2024-12-03 20:00:00,8394,7878,Real Zaragoza,Granada,True
+4682063,copa_del_rey,2024-12-03 20:00:00,490334,9910,Salamanca CF UDS,Celta Vigo,True
+4682064,copa_del_rey,2024-12-03 20:15:00,189639,8306,CE Europa,Las Palmas,True
+4682083,copa_del_rey,2024-12-04 18:00:00,8400,96925,Gimnàstic,SD Huesca,True
+4682080,copa_del_rey,2024-12-04 18:00:00,8229,8603,Sant Andreu,Real Betis,True
+4682085,copa_del_rey,2024-12-04 18:00:00,780591,8370,Unionistas de Salamanca,Rayo Vallecano,True
+4682074,copa_del_rey,2024-12-04 19:00:00,8385,8288,Cádiz,Eldense,True
+4682076,copa_del_rey,2024-12-04 19:00:00,1753,9865,Cultural Leonesa,Almería,True
+4682087,copa_del_rey,2024-12-04 20:00:00,177231,7854,CD Estepona,Leganés,True
+4682065,copa_del_rey,2024-12-04 20:00:00,141787,10267,Ejea,Valencia,True
+4682061,copa_del_rey,2024-12-04 20:00:00,7880,7732,Logroñés,Girona,True
+4682066,copa_del_rey,2024-12-04 20:00:00,7862,10205,Pontevedra,Villarreal,True
+4682084,copa_del_rey,2024-12-05 18:00:00,357259,8371,AD Ceuta FC,Osasuna,True
+4682067,copa_del_rey,2024-12-05 18:00:00,7809,9906,Cacereño,Atlético Madrid,True
+4682088,copa_del_rey,2024-12-05 18:00:00,8213,8305,Orihuela,Getafe,True
+4682086,copa_del_rey,2024-12-05 20:00:00,6256,8560,Conquense,Real Sociedad,True
+4682089,copa_del_rey,2024-12-05 20:00:00,278805,9866,Deportiva Minera,Deportivo Alavés,True
+4682090,copa_del_rey,2024-12-05 20:00:00,277406,8302,UE Olot,Sevilla,True
+4686829,copa_del_rey,2025-01-03 18:00:00,7878,8305,Granada,Getafe,True
+4686823,copa_del_rey,2025-01-03 18:00:00,7862,8661,Pontevedra,Mallorca,True
+4686831,copa_del_rey,2025-01-03 18:00:00,8474,8370,Racing de Ferrol,Rayo Vallecano,True
+4686830,copa_del_rey,2025-01-04 14:30:00,96925,8603,SD Huesca,Real Betis,True
+4686835,copa_del_rey,2025-01-04 15:30:00,9867,8371,Tenerife,Osasuna,True
+4686833,copa_del_rey,2025-01-04 16:30:00,9865,8302,Almería,Sevilla,True
+4686822,copa_del_rey,2025-01-04 18:00:00,8214,8634,Barbastro,Barcelona,True
+4686825,copa_del_rey,2025-01-04 20:30:00,7880,8315,Logroñés,Athletic Club,True
+4686826,copa_del_rey,2025-01-04 20:30:00,161781,9906,Marbella FC,Atlético Madrid,True
+4686836,copa_del_rey,2025-01-05 11:00:00,10268,8306,Elche,Las Palmas,True
+4686827,copa_del_rey,2025-01-05 11:00:00,7859,10281,Ourense,Real Valladolid,True
+4686837,copa_del_rey,2025-01-05 14:30:00,8554,7854,Cartagena,Leganés,True
+4686828,copa_del_rey,2025-01-05 14:30:00,8005,8560,Ponferradina,Real Sociedad,True
+4686832,copa_del_rey,2025-01-05 14:30:00,8696,9910,Racing Santander,Celta Vigo,True
+4686824,copa_del_rey,2025-01-06 18:00:00,278805,8633,Deportiva Minera,Real Madrid,True
+4686834,copa_del_rey,2025-01-07 20:00:00,8288,10267,Eldense,Valencia,True
+4707270,copa_del_rey,2025-01-14 20:00:00,7859,10267,Ourense,Valencia,True
+4707271,copa_del_rey,2025-01-15 18:30:00,9865,7854,Almería,Leganés,True
+4707269,copa_del_rey,2025-01-15 18:30:00,7862,8305,Pontevedra,Getafe,True
+4707274,copa_del_rey,2025-01-15 20:00:00,8634,8603,Barcelona,Real Betis,True
+4707272,copa_del_rey,2025-01-15 20:30:00,10268,9906,Elche,Atlético Madrid,True
+4707276,copa_del_rey,2025-01-16 18:30:00,8315,8371,Athletic Club,Osasuna,True
+4707275,copa_del_rey,2025-01-16 18:30:00,8560,8370,Real Sociedad,Rayo Vallecano,True
+4707273,copa_del_rey,2025-01-16 20:30:00,8633,9910,Real Madrid,Celta Vigo,True
+4717297,copa_del_rey,2025-02-04 20:30:00,9906,8305,Atlético Madrid,Getafe,True
+4717296,copa_del_rey,2025-02-05 20:00:00,7854,8633,Leganés,Real Madrid,True
+4717298,copa_del_rey,2025-02-06 18:30:00,8560,8371,Real Sociedad,Osasuna,True
+4717295,copa_del_rey,2025-02-06 20:30:00,10267,8634,Valencia,Barcelona,True
+4731569,copa_del_rey,2025-02-25 20:30:00,8634,9906,Barcelona,Atlético Madrid,True
+4731570,copa_del_rey,2025-02-26 20:30:00,8560,8633,Real Sociedad,Real Madrid,True
+4731572,copa_del_rey,2025-04-01 19:30:00,8633,8560,Real Madrid,Real Sociedad,True
+4731571,copa_del_rey,2025-04-02 19:30:00,9906,8634,Atlético Madrid,Barcelona,True
+4731604,copa_del_rey,2025-04-26 20:00:00,8634,8633,Barcelona,Real Madrid,True
+4996008,copa_del_rey,2025-10-28 18:00:00,189741,7732,Constància,Girona,True
+4995991,copa_del_rey,2025-10-28 18:00:00,7859,8670,Ourense,Real Oviedo,True
+4996026,copa_del_rey,2025-10-28 18:30:00,189783,8385,UCAM Murcia,Cádiz,True
+4996051,copa_del_rey,2025-10-28 19:00:00,1822175,7878,CD Roda,Granada,True
+4996052,copa_del_rey,2025-10-28 19:00:00,1822178,8305,Inter de Valdemoro,Getafe,True
+4996019,copa_del_rey,2025-10-28 19:00:00,210147,10267,UD Maracena,Valencia,True
+4996011,copa_del_rey,2025-10-28 19:30:00,96923,96925,Utebo,SD Huesca,True
+4996035,copa_del_rey,2025-10-28 20:00:00,1686598,8306,CD Extremadura,Las Palmas,True
+4995989,copa_del_rey,2025-10-28 20:00:00,189568,8560,Negreira,Real Sociedad,True
+4996020,copa_del_rey,2025-10-28 20:00:00,7861,8302,Toledo,Sevilla,True
+4996006,copa_del_rey,2025-10-29 18:00:00,1822126,8371,CD Sant Jordi,Osasuna,True
+4996017,copa_del_rey,2025-10-29 18:00:00,1822129,10268,Los Garres,Elche,True
+4996033,copa_del_rey,2025-10-29 19:00:00,479155,7854,CD Azuaga,Leganés,True
+4996025,copa_del_rey,2025-10-29 19:00:00,656544,9865,Lorca Deportiva,Almería,True
+4995996,copa_del_rey,2025-10-29 19:00:00,190077,8372,Náxara,Eibar,True
+4996005,copa_del_rey,2025-10-29 19:00:00,1822125,8661,Sant Just,Mallorca,True
+4995995,copa_del_rey,2025-10-29 19:15:00,4701,10281,Portugalete,Real Valladolid,True
+4996053,copa_del_rey,2025-10-29 20:00:00,782164,8370,CD Yuncos,Rayo Vallecano,True
+4996022,copa_del_rey,2025-10-29 20:00:00,627898,10205,Ciudad Lucena,Villarreal,True
+4996021,copa_del_rey,2025-10-30 18:00:00,8213,8581,Orihuela,Levante,True
+4995990,copa_del_rey,2025-10-30 18:00:00,1822124,9910,Puerto de Vega,Celta Vigo,True
+4995988,copa_del_rey,2025-10-30 19:00:00,357267,9866,CD Getxo,Deportivo Alavés,True
+4996007,copa_del_rey,2025-10-30 20:00:00,1783970,8558,Atlètic Lleida,Espanyol,True
+4996018,copa_del_rey,2025-10-30 20:00:00,1822131,8603,Atletico Palma del Río,Real Betis,True
+5057218,copa_del_rey,2025-12-02 18:00:00,209199,8371,Ebro,Osasuna,True
+5057226,copa_del_rey,2025-12-02 18:00:00,8388,8661,Numancia,Mallorca,True
+5057310,copa_del_rey,2025-12-02 18:00:00,4701,9866,Portugalete,Deportivo Alavés,True
+5057230,copa_del_rey,2025-12-02 18:00:00,8474,96925,Racing de Ferrol,SD Huesca,True
+5057225,copa_del_rey,2025-12-02 20:00:00,161758,8305,Navalcarnero,Getafe,True
+5057219,copa_del_rey,2025-12-03 19:00:00,8288,9865,Eldense,Almería,True
+5057224,copa_del_rey,2025-12-03 19:00:00,8392,8385,Real Murcia,Cádiz,True
+5057212,copa_del_rey,2025-12-03 20:00:00,277430,10205,CA Antoniano,Villarreal,True
+5057311,copa_del_rey,2025-12-03 20:00:00,190126,10268,CD Quintanar del Rey,Elche,True
+5057216,copa_del_rey,2025-12-03 20:00:00,189778,8581,Cieza,Levante,True
+5057227,copa_del_rey,2025-12-03 20:00:00,7859,7732,Ourense,Girona,True
+5057229,copa_del_rey,2025-12-03 20:00:00,7862,8372,Pontevedra,Eibar,True
+5057232,copa_del_rey,2025-12-03 20:00:00,96927,8560,Reus,Real Sociedad,True
+5057236,copa_del_rey,2025-12-03 20:00:00,1515440,8603,Torrent CF,Real Betis,True
+5057213,copa_del_rey,2025-12-04 18:00:00,141784,8558,Atlético Baleares,Espanyol,True
+5057222,copa_del_rey,2025-12-04 18:00:00,7854,8393,Leganés,Albacete,True
+5057231,copa_del_rey,2025-12-04 18:00:00,189689,8370,Real Ávila,Rayo Vallecano,True
+5057220,copa_del_rey,2025-12-04 20:00:00,8554,10267,Cartagena,Valencia,True
+5057214,copa_del_rey,2025-12-04 20:00:00,1686598,8302,CD Extremadura,Sevilla,True
+5057234,copa_del_rey,2025-12-04 20:00:00,8229,9910,Sant Andreu,Celta Vigo,True
+5057235,copa_del_rey,2025-12-04 21:00:00,9867,7878,Tenerife,Granada,True
+5091460,copa_del_rey,2025-12-16 18:00:00,9783,8661,Deportivo A Coruña,Mallorca,True
+5091461,copa_del_rey,2025-12-16 18:00:00,8372,10268,Eibar,Elche,True
+5091462,copa_del_rey,2025-12-16 20:00:00,8288,8560,Eldense,Real Sociedad,True
+5091463,copa_del_rey,2025-12-16 20:00:00,9869,10267,Sporting Gijón,Valencia,True
+5091468,copa_del_rey,2025-12-16 20:30:00,161782,8634,CD Guadalajara,Barcelona,True
+5091459,copa_del_rey,2025-12-17 17:00:00,1753,8581,Cultural Leonesa,Levante,True
+5091455,copa_del_rey,2025-12-17 18:00:00,8393,9910,Albacete,Celta Vigo,True
+5091456,copa_del_rey,2025-12-17 18:00:00,141784,9906,Atlético Baleares,Atlético Madrid,True
+5091469,copa_del_rey,2025-12-17 18:00:00,8696,10205,Racing Santander,Villarreal,True
+5091465,copa_del_rey,2025-12-17 18:00:00,96925,8371,SD Huesca,Osasuna,True
+5091458,copa_del_rey,2025-12-17 20:00:00,357239,8633,CF Talavera de la Reina,Real Madrid,True
+5091454,copa_del_rey,2025-12-17 20:00:00,9866,8302,Deportivo Alavés,Sevilla,True
+5091457,copa_del_rey,2025-12-18 18:00:00,7876,8305,Burgos CF,Getafe,True
+5091467,copa_del_rey,2025-12-18 18:00:00,7859,8315,Ourense,Athletic Club,True
+5091466,copa_del_rey,2025-12-18 20:00:00,8392,8603,Real Murcia,Real Betis,True
+5091464,copa_del_rey,2026-01-06 18:00:00,7878,8370,Granada,Rayo Vallecano,True
+5125324,copa_del_rey,2026-01-13 20:00:00,1753,8315,Cultural Leonesa,Athletic Club,True
+5125325,copa_del_rey,2026-01-13 20:00:00,9783,9906,Deportivo A Coruña,Atlético Madrid,True
+5125328,copa_del_rey,2026-01-13 20:00:00,8560,8371,Real Sociedad,Osasuna,True
+5125322,copa_del_rey,2026-01-14 20:00:00,8393,8633,Albacete,Real Madrid,True
+5125321,copa_del_rey,2026-01-14 20:00:00,9866,8370,Deportivo Alavés,Rayo Vallecano,True
+5125327,copa_del_rey,2026-01-14 20:00:00,8603,10268,Real Betis,Elche,True
+5125323,copa_del_rey,2026-01-15 20:00:00,7876,10267,Burgos CF,Valencia,True
+5125326,copa_del_rey,2026-01-15 20:15:00,8696,8634,Racing Santander,Barcelona,True
+5144838,copa_del_rey,2026-02-03 20:00:00,8393,8634,Albacete,Barcelona,True
+5144837,copa_del_rey,2026-02-04 20:00:00,9866,8560,Deportivo Alavés,Real Sociedad,True
+5144840,copa_del_rey,2026-02-04 20:00:00,10267,8315,Valencia,Athletic Club,True
+5144839,copa_del_rey,2026-02-05 20:00:00,8603,9906,Real Betis,Atlético Madrid,True
+5173358,copa_del_rey,2026-02-11 20:00:00,8315,8560,Athletic Club,Real Sociedad,True
+5173360,copa_del_rey,2026-02-12 20:00:00,9906,8634,Atlético Madrid,Barcelona,True
+5173361,copa_del_rey,2026-03-03 20:00:00,8634,9906,Barcelona,Atlético Madrid,True
+5173359,copa_del_rey,2026-03-04 20:00:00,8560,8315,Real Sociedad,Athletic Club,True
+5173387,copa_del_rey,2026-04-18 19:00:00,9906,8560,Atlético Madrid,Real Sociedad,True
